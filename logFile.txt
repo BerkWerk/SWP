@@ -1354,3 +1354,2459 @@
 [14/10/2020 23:06:37]: RegisteredServers: 1
 [14/10/2020 23:06:39]: Average server load: 0.4
 [14/10/2020 23:06:39]: RegisteredServers: 1
+[14/10/2020 23:06:41]: Average server load: 0.4
+[14/10/2020 23:06:41]: RegisteredServers: 1
+[14/10/2020 23:06:43]: Average server load: 0.4
+[14/10/2020 23:06:43]: RegisteredServers: 1
+[14/10/2020 23:06:45]: Average server load: 0.4
+[14/10/2020 23:06:45]: RegisteredServers: 1
+[14/10/2020 23:06:47]: Average server load: 0.4
+[14/10/2020 23:06:47]: RegisteredServers: 1
+[14/10/2020 23:06:49]: Average server load: 0.4
+[14/10/2020 23:06:49]: RegisteredServers: 1
+[14/10/2020 23:06:51]: Average server load: 0.4
+[14/10/2020 23:06:51]: RegisteredServers: 1
+[14/10/2020 23:06:53]: Average server load: 0.4
+[14/10/2020 23:06:53]: RegisteredServers: 1
+[14/10/2020 23:06:55]: Average server load: 0.4
+[14/10/2020 23:06:55]: RegisteredServers: 1
+[14/10/2020 23:06:57]: Average server load: 0.4
+[14/10/2020 23:06:57]: RegisteredServers: 1
+[14/10/2020 23:06:59]: Average server load: 0.4
+[14/10/2020 23:06:59]: RegisteredServers: 1
+[14/10/2020 23:07:01]: Average server load: 0.4
+[14/10/2020 23:07:01]: RegisteredServers: 1
+[14/10/2020 23:07:03]: Average server load: 0.4
+[14/10/2020 23:07:03]: RegisteredServers: 1
+[14/10/2020 23:07:05]: Average server load: 0.4
+[14/10/2020 23:07:05]: RegisteredServers: 1
+[14/10/2020 23:07:07]: Average server load: 0.4
+[14/10/2020 23:07:07]: RegisteredServers: 1
+[14/10/2020 23:07:09]: Average server load: 0.4
+[14/10/2020 23:07:09]: RegisteredServers: 1
+[14/10/2020 23:07:11]: Average server load: 0.4
+[14/10/2020 23:07:11]: RegisteredServers: 1
+[14/10/2020 23:07:13]: Average server load: 0.4
+[14/10/2020 23:07:13]: RegisteredServers: 1
+[14/10/2020 23:07:15]: Average server load: 0.4
+[14/10/2020 23:07:15]: RegisteredServers: 1
+[14/10/2020 23:07:17]: Average server load: 0.4
+[14/10/2020 23:07:17]: RegisteredServers: 1
+[14/10/2020 23:07:19]: Average server load: 0.4
+[14/10/2020 23:07:19]: RegisteredServers: 1
+[14/10/2020 23:07:21]: Average server load: 0.4
+[14/10/2020 23:07:21]: RegisteredServers: 1
+[14/10/2020 23:07:23]: Average server load: 0.4
+[14/10/2020 23:07:23]: RegisteredServers: 1
+[14/10/2020 23:07:25]: Average server load: 0.4
+[14/10/2020 23:07:25]: RegisteredServers: 1
+[14/10/2020 23:07:27]: Average server load: 0.4
+[14/10/2020 23:07:27]: RegisteredServers: 1
+[14/10/2020 23:07:29]: Average server load: 0.4
+[14/10/2020 23:07:29]: RegisteredServers: 1
+[14/10/2020 23:07:31]: Average server load: 0.4
+[14/10/2020 23:07:31]: RegisteredServers: 1
+[14/10/2020 23:07:33]: Average server load: 0.4
+[14/10/2020 23:07:33]: RegisteredServers: 1
+[14/10/2020 23:07:35]: Average server load: 0.4
+[14/10/2020 23:07:35]: RegisteredServers: 1
+[14/10/2020 23:07:37]: Average server load: 0.4
+[14/10/2020 23:07:37]: RegisteredServers: 1
+[14/10/2020 23:07:39]: Average server load: 0.4
+[14/10/2020 23:07:39]: RegisteredServers: 1
+[14/10/2020 23:07:41]: Average server load: 0.4
+[14/10/2020 23:07:41]: RegisteredServers: 1
+[14/10/2020 23:07:43]: Average server load: 0.4
+[14/10/2020 23:07:43]: RegisteredServers: 1
+[14/10/2020 23:07:45]: Average server load: 0.4
+[14/10/2020 23:07:45]: RegisteredServers: 1
+[14/10/2020 23:07:47]: Average server load: 0.4
+[14/10/2020 23:07:47]: RegisteredServers: 1
+[14/10/2020 23:07:49]: Average server load: 0.4
+[14/10/2020 23:07:49]: RegisteredServers: 1
+[14/10/2020 23:07:51]: Average server load: 0.4
+[14/10/2020 23:07:51]: RegisteredServers: 1
+[14/10/2020 23:07:53]: Average server load: 0.4
+[14/10/2020 23:07:53]: RegisteredServers: 1
+[14/10/2020 23:07:55]: Average server load: 0.4
+[14/10/2020 23:07:55]: RegisteredServers: 1
+[14/10/2020 23:07:57]: Average server load: 0.4
+[14/10/2020 23:07:57]: RegisteredServers: 1
+[14/10/2020 23:07:59]: Average server load: 0.4
+[14/10/2020 23:07:59]: RegisteredServers: 1
+[14/10/2020 23:08:01]: Average server load: 0.4
+[14/10/2020 23:08:01]: RegisteredServers: 1
+[14/10/2020 23:08:03]: Average server load: 0.4
+[14/10/2020 23:08:03]: RegisteredServers: 1
+[14/10/2020 23:08:05]: Average server load: 0.4
+[14/10/2020 23:08:05]: RegisteredServers: 1
+[14/10/2020 23:08:07]: Average server load: 0.4
+[14/10/2020 23:08:07]: RegisteredServers: 1
+[14/10/2020 23:08:09]: Average server load: 0.4
+[14/10/2020 23:08:09]: RegisteredServers: 1
+[14/10/2020 23:08:11]: Average server load: 0.4
+[14/10/2020 23:08:11]: RegisteredServers: 1
+[14/10/2020 23:08:13]: Average server load: 0.4
+[14/10/2020 23:08:13]: RegisteredServers: 1
+[14/10/2020 23:08:15]: Average server load: 0.4
+[14/10/2020 23:08:15]: RegisteredServers: 1
+[14/10/2020 23:08:17]: Average server load: 0.4
+[14/10/2020 23:08:17]: RegisteredServers: 1
+[14/10/2020 23:08:19]: Average server load: 0.4
+[14/10/2020 23:08:19]: RegisteredServers: 1
+[14/10/2020 23:08:21]: Average server load: 0.4
+[14/10/2020 23:08:21]: RegisteredServers: 1
+[14/10/2020 23:08:23]: Average server load: 0.4
+[14/10/2020 23:08:23]: RegisteredServers: 1
+[14/10/2020 23:08:25]: Average server load: 0.4
+[14/10/2020 23:08:25]: RegisteredServers: 1
+[14/10/2020 23:08:27]: Average server load: 0.4
+[14/10/2020 23:08:27]: RegisteredServers: 1
+[14/10/2020 23:08:29]: Average server load: 0.4
+[14/10/2020 23:08:29]: RegisteredServers: 1
+[14/10/2020 23:08:31]: Average server load: 0.4
+[14/10/2020 23:08:31]: RegisteredServers: 1
+[14/10/2020 23:08:33]: Average server load: 0.4
+[14/10/2020 23:08:33]: RegisteredServers: 1
+[14/10/2020 23:08:35]: Average server load: 0.4
+[14/10/2020 23:08:35]: RegisteredServers: 1
+[14/10/2020 23:08:37]: Average server load: 0.4
+[14/10/2020 23:08:37]: RegisteredServers: 1
+[14/10/2020 23:08:39]: Average server load: 0.4
+[14/10/2020 23:08:39]: RegisteredServers: 1
+[14/10/2020 23:08:41]: Average server load: 0.4
+[14/10/2020 23:08:41]: RegisteredServers: 1
+[14/10/2020 23:08:43]: Average server load: 0.4
+[14/10/2020 23:08:43]: RegisteredServers: 1
+[14/10/2020 23:08:45]: Average server load: 0.4
+[14/10/2020 23:08:45]: RegisteredServers: 1
+[14/10/2020 23:08:47]: Average server load: 0.4
+[14/10/2020 23:08:47]: RegisteredServers: 1
+[14/10/2020 23:08:49]: Average server load: 0.4
+[14/10/2020 23:08:49]: RegisteredServers: 1
+[14/10/2020 23:08:51]: Average server load: 0.4
+[14/10/2020 23:08:51]: RegisteredServers: 1
+[14/10/2020 23:08:53]: Average server load: 0.4
+[14/10/2020 23:08:53]: RegisteredServers: 1
+[14/10/2020 23:08:55]: Average server load: 0.4
+[14/10/2020 23:08:55]: RegisteredServers: 1
+[14/10/2020 23:08:57]: Average server load: 0.4
+[14/10/2020 23:08:57]: RegisteredServers: 1
+[14/10/2020 23:08:59]: Average server load: 0.4
+[14/10/2020 23:08:59]: RegisteredServers: 1
+[14/10/2020 23:09:01]: Average server load: 0.4
+[14/10/2020 23:09:01]: RegisteredServers: 1
+[14/10/2020 23:09:03]: Average server load: 0.4
+[14/10/2020 23:09:03]: RegisteredServers: 1
+[14/10/2020 23:09:05]: Average server load: 0.4
+[14/10/2020 23:09:05]: RegisteredServers: 1
+[14/10/2020 23:09:07]: Average server load: 0.4
+[14/10/2020 23:09:07]: RegisteredServers: 1
+[14/10/2020 23:09:09]: Average server load: 0.4
+[14/10/2020 23:09:09]: RegisteredServers: 1
+[14/10/2020 23:09:11]: Average server load: 0.4
+[14/10/2020 23:09:11]: RegisteredServers: 1
+[14/10/2020 23:09:13]: Average server load: 0.4
+[14/10/2020 23:09:13]: RegisteredServers: 1
+[14/10/2020 23:09:15]: Average server load: 0.4
+[14/10/2020 23:09:15]: RegisteredServers: 1
+[14/10/2020 23:09:17]: Average server load: 0.4
+[14/10/2020 23:09:17]: RegisteredServers: 1
+[14/10/2020 23:09:19]: Average server load: 0.4
+[14/10/2020 23:09:19]: RegisteredServers: 1
+[14/10/2020 23:09:21]: Average server load: 0.4
+[14/10/2020 23:09:21]: RegisteredServers: 1
+[14/10/2020 23:09:23]: Average server load: 0.4
+[14/10/2020 23:09:23]: RegisteredServers: 1
+[14/10/2020 23:09:25]: Average server load: 0.4
+[14/10/2020 23:09:25]: RegisteredServers: 1
+[14/10/2020 23:09:27]: Average server load: 0.4
+[14/10/2020 23:09:27]: RegisteredServers: 1
+[14/10/2020 23:09:29]: Average server load: 0.4
+[14/10/2020 23:09:29]: RegisteredServers: 1
+[14/10/2020 23:09:31]: Average server load: 0.4
+[14/10/2020 23:09:31]: RegisteredServers: 1
+[14/10/2020 23:09:33]: Average server load: 0.4
+[14/10/2020 23:09:33]: RegisteredServers: 1
+[14/10/2020 23:09:35]: Average server load: 0.4
+[14/10/2020 23:09:35]: RegisteredServers: 1
+[14/10/2020 23:09:37]: Average server load: 0.4
+[14/10/2020 23:09:37]: RegisteredServers: 1
+[14/10/2020 23:09:39]: Average server load: 0.4
+[14/10/2020 23:09:39]: RegisteredServers: 1
+[14/10/2020 23:09:41]: Average server load: 0.4
+[14/10/2020 23:09:41]: RegisteredServers: 1
+[14/10/2020 23:09:43]: Average server load: 0.4
+[14/10/2020 23:09:43]: RegisteredServers: 1
+[14/10/2020 23:09:45]: Average server load: 0.4
+[14/10/2020 23:09:45]: RegisteredServers: 1
+[14/10/2020 23:09:47]: Average server load: 0.4
+[14/10/2020 23:09:47]: RegisteredServers: 1
+[14/10/2020 23:09:49]: Average server load: 0.4
+[14/10/2020 23:09:49]: RegisteredServers: 1
+[14/10/2020 23:09:51]: Average server load: 0.4
+[14/10/2020 23:09:51]: RegisteredServers: 1
+[14/10/2020 23:09:53]: Average server load: 0.4
+[14/10/2020 23:09:53]: RegisteredServers: 1
+[14/10/2020 23:09:55]: Average server load: 0.4
+[14/10/2020 23:09:55]: RegisteredServers: 1
+[14/10/2020 23:09:57]: Average server load: 0.4
+[14/10/2020 23:09:57]: RegisteredServers: 1
+[14/10/2020 23:09:59]: Average server load: 0.4
+[14/10/2020 23:09:59]: RegisteredServers: 1
+[14/10/2020 23:10:01]: Average server load: 0.4
+[14/10/2020 23:10:01]: RegisteredServers: 1
+[14/10/2020 23:10:03]: Average server load: 0.4
+[14/10/2020 23:10:03]: RegisteredServers: 1
+[14/10/2020 23:10:05]: Average server load: 0.4
+[14/10/2020 23:10:05]: RegisteredServers: 1
+[14/10/2020 23:10:07]: Average server load: 0.4
+[14/10/2020 23:10:07]: RegisteredServers: 1
+[14/10/2020 23:10:09]: Average server load: 0.4
+[14/10/2020 23:10:09]: RegisteredServers: 1
+[14/10/2020 23:10:11]: Average server load: 0.4
+[14/10/2020 23:10:11]: RegisteredServers: 1
+[14/10/2020 23:10:13]: Average server load: 0.4
+[14/10/2020 23:10:13]: RegisteredServers: 1
+[14/10/2020 23:10:15]: Average server load: 0.4
+[14/10/2020 23:10:15]: RegisteredServers: 1
+[14/10/2020 23:10:17]: Average server load: 0.4
+[14/10/2020 23:10:17]: RegisteredServers: 1
+[14/10/2020 23:10:19]: Average server load: 0.4
+[14/10/2020 23:10:19]: RegisteredServers: 1
+[14/10/2020 23:10:21]: Average server load: 0.4
+[14/10/2020 23:10:21]: RegisteredServers: 1
+[14/10/2020 23:10:23]: Average server load: 0.4
+[14/10/2020 23:10:23]: RegisteredServers: 1
+[14/10/2020 23:10:25]: Average server load: 0.4
+[14/10/2020 23:10:25]: RegisteredServers: 1
+[14/10/2020 23:10:27]: Average server load: 0.4
+[14/10/2020 23:10:27]: RegisteredServers: 1
+[14/10/2020 23:10:29]: Average server load: 0.4
+[14/10/2020 23:10:29]: RegisteredServers: 1
+[14/10/2020 23:10:31]: Average server load: 0.4
+[14/10/2020 23:10:31]: RegisteredServers: 1
+[14/10/2020 23:10:33]: Average server load: 0.4
+[14/10/2020 23:10:33]: RegisteredServers: 1
+[14/10/2020 23:10:35]: Average server load: 0.4
+[14/10/2020 23:10:35]: RegisteredServers: 1
+[14/10/2020 23:10:37]: Average server load: 0.4
+[14/10/2020 23:10:37]: RegisteredServers: 1
+[14/10/2020 23:10:39]: Average server load: 0.4
+[14/10/2020 23:10:39]: RegisteredServers: 1
+[14/10/2020 23:10:41]: Average server load: 0.4
+[14/10/2020 23:10:41]: RegisteredServers: 1
+[14/10/2020 23:10:43]: Average server load: 0.4
+[14/10/2020 23:10:43]: RegisteredServers: 1
+[14/10/2020 23:10:45]: Average server load: 0.4
+[14/10/2020 23:10:45]: RegisteredServers: 1
+[14/10/2020 23:10:47]: Average server load: 0.4
+[14/10/2020 23:10:47]: RegisteredServers: 1
+[14/10/2020 23:10:49]: Average server load: 0.4
+[14/10/2020 23:10:49]: RegisteredServers: 1
+[14/10/2020 23:10:51]: Average server load: 0.4
+[14/10/2020 23:10:51]: RegisteredServers: 1
+[14/10/2020 23:10:53]: Average server load: 0.4
+[14/10/2020 23:10:53]: RegisteredServers: 1
+[14/10/2020 23:10:55]: Average server load: 0.4
+[14/10/2020 23:10:55]: RegisteredServers: 1
+[14/10/2020 23:10:57]: Average server load: 0.4
+[14/10/2020 23:10:57]: RegisteredServers: 1
+[14/10/2020 23:10:59]: Average server load: 0.4
+[14/10/2020 23:10:59]: RegisteredServers: 1
+[14/10/2020 23:11:01]: Average server load: 0.4
+[14/10/2020 23:11:01]: RegisteredServers: 1
+[14/10/2020 23:11:03]: Average server load: 0.4
+[14/10/2020 23:11:03]: RegisteredServers: 1
+[14/10/2020 23:11:05]: Average server load: 0.4
+[14/10/2020 23:11:05]: RegisteredServers: 1
+[14/10/2020 23:11:07]: Average server load: 0.4
+[14/10/2020 23:11:07]: RegisteredServers: 1
+[14/10/2020 23:11:09]: Average server load: 0.4
+[14/10/2020 23:11:09]: RegisteredServers: 1
+[14/10/2020 23:11:11]: Average server load: 0.4
+[14/10/2020 23:11:11]: RegisteredServers: 1
+[14/10/2020 23:11:13]: Average server load: 0.4
+[14/10/2020 23:11:13]: RegisteredServers: 1
+[14/10/2020 23:11:15]: Average server load: 0.4
+[14/10/2020 23:11:15]: RegisteredServers: 1
+[14/10/2020 23:11:17]: Average server load: 0.4
+[14/10/2020 23:11:17]: RegisteredServers: 1
+[14/10/2020 23:11:19]: Average server load: 0.4
+[14/10/2020 23:11:19]: RegisteredServers: 1
+[14/10/2020 23:11:21]: Average server load: 0.4
+[14/10/2020 23:11:21]: RegisteredServers: 1
+[14/10/2020 23:11:23]: Average server load: 0.4
+[14/10/2020 23:11:23]: RegisteredServers: 1
+[14/10/2020 23:11:25]: Average server load: 0.4
+[14/10/2020 23:11:25]: RegisteredServers: 1
+[14/10/2020 23:11:27]: Average server load: 0.4
+[14/10/2020 23:11:27]: RegisteredServers: 1
+[14/10/2020 23:11:29]: Average server load: 0.4
+[14/10/2020 23:11:29]: RegisteredServers: 1
+[14/10/2020 23:11:31]: Average server load: 0.4
+[14/10/2020 23:11:31]: RegisteredServers: 1
+[14/10/2020 23:11:33]: Average server load: 0.4
+[14/10/2020 23:11:33]: RegisteredServers: 1
+[14/10/2020 23:11:35]: Average server load: 0.4
+[14/10/2020 23:11:35]: RegisteredServers: 1
+[14/10/2020 23:11:37]: Average server load: 0.4
+[14/10/2020 23:11:37]: RegisteredServers: 1
+[14/10/2020 23:11:39]: Average server load: 0.4
+[14/10/2020 23:11:39]: RegisteredServers: 1
+[14/10/2020 23:11:41]: Average server load: 0.4
+[14/10/2020 23:11:41]: RegisteredServers: 1
+[14/10/2020 23:11:43]: Average server load: 0.4
+[14/10/2020 23:11:43]: RegisteredServers: 1
+[14/10/2020 23:11:45]: Average server load: 0.4
+[14/10/2020 23:11:45]: RegisteredServers: 1
+[14/10/2020 23:11:47]: Average server load: 0.4
+[14/10/2020 23:11:47]: RegisteredServers: 1
+[14/10/2020 23:11:49]: Average server load: 0.4
+[14/10/2020 23:11:49]: RegisteredServers: 1
+[14/10/2020 23:11:51]: Average server load: 0.4
+[14/10/2020 23:11:51]: RegisteredServers: 1
+[14/10/2020 23:11:53]: Average server load: 0.4
+[14/10/2020 23:11:53]: RegisteredServers: 1
+[14/10/2020 23:11:55]: Average server load: 0.4
+[14/10/2020 23:11:55]: RegisteredServers: 1
+[14/10/2020 23:11:57]: Average server load: 0.4
+[14/10/2020 23:11:57]: RegisteredServers: 1
+[14/10/2020 23:11:59]: Average server load: 0.4
+[14/10/2020 23:11:59]: RegisteredServers: 1
+[14/10/2020 23:12:01]: Average server load: 0.4
+[14/10/2020 23:12:01]: RegisteredServers: 1
+[14/10/2020 23:12:03]: Average server load: 0.4
+[14/10/2020 23:12:03]: RegisteredServers: 1
+[14/10/2020 23:12:05]: Average server load: 0.4
+[14/10/2020 23:12:05]: RegisteredServers: 1
+[14/10/2020 23:12:07]: Average server load: 0.4
+[14/10/2020 23:12:07]: RegisteredServers: 1
+[14/10/2020 23:12:09]: Average server load: 0.4
+[14/10/2020 23:12:09]: RegisteredServers: 1
+[14/10/2020 23:12:11]: Average server load: 0.4
+[14/10/2020 23:12:11]: RegisteredServers: 1
+[14/10/2020 23:12:13]: Average server load: 0.4
+[14/10/2020 23:12:13]: RegisteredServers: 1
+[14/10/2020 23:12:15]: Average server load: 0.4
+[14/10/2020 23:12:15]: RegisteredServers: 1
+[14/10/2020 23:12:17]: Average server load: 0.4
+[14/10/2020 23:12:17]: RegisteredServers: 1
+[14/10/2020 23:12:19]: Average server load: 0.4
+[14/10/2020 23:12:19]: RegisteredServers: 1
+[14/10/2020 23:12:21]: Average server load: 0.4
+[14/10/2020 23:12:21]: RegisteredServers: 1
+[14/10/2020 23:12:23]: Average server load: 0.4
+[14/10/2020 23:12:23]: RegisteredServers: 1
+[14/10/2020 23:12:25]: Average server load: 0.4
+[14/10/2020 23:12:25]: RegisteredServers: 1
+[14/10/2020 23:12:27]: Average server load: 0.4
+[14/10/2020 23:12:27]: RegisteredServers: 1
+[14/10/2020 23:12:29]: Average server load: 0.4
+[14/10/2020 23:12:29]: RegisteredServers: 1
+[14/10/2020 23:12:31]: Average server load: 0.4
+[14/10/2020 23:12:31]: RegisteredServers: 1
+[14/10/2020 23:12:33]: Average server load: 0.4
+[14/10/2020 23:12:33]: RegisteredServers: 1
+[14/10/2020 23:12:35]: Average server load: 0.4
+[14/10/2020 23:12:35]: RegisteredServers: 1
+[14/10/2020 23:12:37]: Average server load: 0.4
+[14/10/2020 23:12:37]: RegisteredServers: 1
+[14/10/2020 23:12:39]: Average server load: 0.4
+[14/10/2020 23:12:39]: RegisteredServers: 1
+[14/10/2020 23:12:41]: Average server load: 0.4
+[14/10/2020 23:12:41]: RegisteredServers: 1
+[14/10/2020 23:12:43]: Average server load: 0.4
+[14/10/2020 23:12:43]: RegisteredServers: 1
+[14/10/2020 23:12:45]: Average server load: 0.4
+[14/10/2020 23:12:45]: RegisteredServers: 1
+[14/10/2020 23:12:47]: Average server load: 0.4
+[14/10/2020 23:12:47]: RegisteredServers: 1
+[14/10/2020 23:12:49]: Average server load: 0.4
+[14/10/2020 23:12:49]: RegisteredServers: 1
+[14/10/2020 23:12:51]: Average server load: 0.4
+[14/10/2020 23:12:51]: RegisteredServers: 1
+[14/10/2020 23:12:53]: Average server load: 0.4
+[14/10/2020 23:12:53]: RegisteredServers: 1
+[14/10/2020 23:12:55]: Average server load: 0.4
+[14/10/2020 23:12:55]: RegisteredServers: 1
+[14/10/2020 23:12:57]: Average server load: 0.4
+[14/10/2020 23:12:57]: RegisteredServers: 1
+[14/10/2020 23:12:59]: Average server load: 0.4
+[14/10/2020 23:12:59]: RegisteredServers: 1
+[14/10/2020 23:13:01]: Average server load: 0.4
+[14/10/2020 23:13:01]: RegisteredServers: 1
+[14/10/2020 23:13:03]: Average server load: 0.4
+[14/10/2020 23:13:03]: RegisteredServers: 1
+[14/10/2020 23:13:05]: Average server load: 0.4
+[14/10/2020 23:13:05]: RegisteredServers: 1
+[14/10/2020 23:13:07]: Average server load: 0.4
+[14/10/2020 23:13:07]: RegisteredServers: 1
+[14/10/2020 23:13:09]: Average server load: 0.4
+[14/10/2020 23:13:09]: RegisteredServers: 1
+[14/10/2020 23:13:11]: Average server load: 0.4
+[14/10/2020 23:13:11]: RegisteredServers: 1
+[14/10/2020 23:13:13]: Average server load: 0.4
+[14/10/2020 23:13:13]: RegisteredServers: 1
+[14/10/2020 23:13:15]: Average server load: 0.4
+[14/10/2020 23:13:15]: RegisteredServers: 1
+[14/10/2020 23:13:17]: Average server load: 0.4
+[14/10/2020 23:13:17]: RegisteredServers: 1
+[14/10/2020 23:13:19]: Average server load: 0.4
+[14/10/2020 23:13:19]: RegisteredServers: 1
+[14/10/2020 23:13:21]: Average server load: 0.4
+[14/10/2020 23:13:21]: RegisteredServers: 1
+[14/10/2020 23:13:23]: Average server load: 0.4
+[14/10/2020 23:13:23]: RegisteredServers: 1
+[14/10/2020 23:13:25]: Average server load: 0.4
+[14/10/2020 23:13:25]: RegisteredServers: 1
+[14/10/2020 23:13:27]: Average server load: 0.4
+[14/10/2020 23:13:27]: RegisteredServers: 1
+[14/10/2020 23:13:29]: Average server load: 0.4
+[14/10/2020 23:13:29]: RegisteredServers: 1
+[14/10/2020 23:13:31]: Average server load: 0.4
+[14/10/2020 23:13:31]: RegisteredServers: 1
+[14/10/2020 23:13:33]: Average server load: 0.4
+[14/10/2020 23:13:33]: RegisteredServers: 1
+[14/10/2020 23:13:35]: Average server load: 0.4
+[14/10/2020 23:13:35]: RegisteredServers: 1
+[14/10/2020 23:13:37]: Average server load: 0.4
+[14/10/2020 23:13:37]: RegisteredServers: 1
+[14/10/2020 23:13:39]: Average server load: 0.4
+[14/10/2020 23:13:39]: RegisteredServers: 1
+[14/10/2020 23:13:41]: Average server load: 0.4
+[14/10/2020 23:13:41]: RegisteredServers: 1
+[14/10/2020 23:13:43]: Average server load: 0.4
+[14/10/2020 23:13:43]: RegisteredServers: 1
+[14/10/2020 23:13:45]: Average server load: 0.4
+[14/10/2020 23:13:45]: RegisteredServers: 1
+[14/10/2020 23:13:47]: Average server load: 0.4
+[14/10/2020 23:13:47]: RegisteredServers: 1
+[14/10/2020 23:13:49]: Average server load: 0.4
+[14/10/2020 23:13:49]: RegisteredServers: 1
+[14/10/2020 23:13:51]: Average server load: 0.4
+[14/10/2020 23:13:51]: RegisteredServers: 1
+[14/10/2020 23:13:53]: Average server load: 0.4
+[14/10/2020 23:13:53]: RegisteredServers: 1
+[14/10/2020 23:13:55]: Average server load: 0.4
+[14/10/2020 23:13:55]: RegisteredServers: 1
+[14/10/2020 23:13:57]: Average server load: 0.4
+[14/10/2020 23:13:57]: RegisteredServers: 1
+[14/10/2020 23:13:59]: Average server load: 0.4
+[14/10/2020 23:13:59]: RegisteredServers: 1
+[14/10/2020 23:14:01]: Average server load: 0.4
+[14/10/2020 23:14:01]: RegisteredServers: 1
+[14/10/2020 23:14:03]: Average server load: 0.4
+[14/10/2020 23:14:03]: RegisteredServers: 1
+[14/10/2020 23:14:05]: Average server load: 0.4
+[14/10/2020 23:14:05]: RegisteredServers: 1
+[14/10/2020 23:14:07]: Average server load: 0.4
+[14/10/2020 23:14:07]: RegisteredServers: 1
+[14/10/2020 23:14:09]: Average server load: 0.4
+[14/10/2020 23:14:09]: RegisteredServers: 1
+[14/10/2020 23:14:11]: Average server load: 0.4
+[14/10/2020 23:14:11]: RegisteredServers: 1
+[14/10/2020 23:14:13]: Average server load: 0.4
+[14/10/2020 23:14:13]: RegisteredServers: 1
+[14/10/2020 23:14:15]: Average server load: 0.4
+[14/10/2020 23:14:15]: RegisteredServers: 1
+[14/10/2020 23:14:17]: Average server load: 0.4
+[14/10/2020 23:14:17]: RegisteredServers: 1
+[14/10/2020 23:14:19]: Average server load: 0.4
+[14/10/2020 23:14:19]: RegisteredServers: 1
+[14/10/2020 23:14:21]: Average server load: 0.4
+[14/10/2020 23:14:21]: RegisteredServers: 1
+[14/10/2020 23:14:23]: Average server load: 0.4
+[14/10/2020 23:14:23]: RegisteredServers: 1
+[14/10/2020 23:14:25]: Average server load: 0.4
+[14/10/2020 23:14:25]: RegisteredServers: 1
+[14/10/2020 23:14:27]: Average server load: 0.4
+[14/10/2020 23:14:27]: RegisteredServers: 1
+[14/10/2020 23:14:29]: Average server load: 0.4
+[14/10/2020 23:14:29]: RegisteredServers: 1
+[14/10/2020 23:14:31]: Average server load: 0.4
+[14/10/2020 23:14:31]: RegisteredServers: 1
+[14/10/2020 23:14:33]: Average server load: 0.4
+[14/10/2020 23:14:33]: RegisteredServers: 1
+[14/10/2020 23:14:35]: Average server load: 0.4
+[14/10/2020 23:14:35]: RegisteredServers: 1
+[14/10/2020 23:14:37]: Average server load: 0.4
+[14/10/2020 23:14:37]: RegisteredServers: 1
+[14/10/2020 23:14:39]: Average server load: 0.4
+[14/10/2020 23:14:39]: RegisteredServers: 1
+[14/10/2020 23:14:41]: Average server load: 0.4
+[14/10/2020 23:14:41]: RegisteredServers: 1
+[14/10/2020 23:14:43]: Average server load: 0.4
+[14/10/2020 23:14:43]: RegisteredServers: 1
+[14/10/2020 23:14:45]: Average server load: 0.4
+[14/10/2020 23:14:45]: RegisteredServers: 1
+[14/10/2020 23:14:47]: Average server load: 0.4
+[14/10/2020 23:14:47]: RegisteredServers: 1
+[14/10/2020 23:14:49]: Average server load: 0.4
+[14/10/2020 23:14:49]: RegisteredServers: 1
+[14/10/2020 23:14:51]: Average server load: 0.4
+[14/10/2020 23:14:51]: RegisteredServers: 1
+[14/10/2020 23:14:53]: Average server load: 0.4
+[14/10/2020 23:14:53]: RegisteredServers: 1
+[14/10/2020 23:14:55]: Average server load: 0.4
+[14/10/2020 23:14:55]: RegisteredServers: 1
+[14/10/2020 23:14:57]: Average server load: 0.4
+[14/10/2020 23:14:57]: RegisteredServers: 1
+[14/10/2020 23:14:59]: Average server load: 0.4
+[14/10/2020 23:14:59]: RegisteredServers: 1
+[14/10/2020 23:15:01]: Average server load: 0.4
+[14/10/2020 23:15:01]: RegisteredServers: 1
+[14/10/2020 23:15:03]: Average server load: 0.4
+[14/10/2020 23:15:03]: RegisteredServers: 1
+[14/10/2020 23:15:05]: Average server load: 0.4
+[14/10/2020 23:15:05]: RegisteredServers: 1
+[14/10/2020 23:15:07]: Average server load: 0.4
+[14/10/2020 23:15:07]: RegisteredServers: 1
+[14/10/2020 23:15:09]: Average server load: 0.4
+[14/10/2020 23:15:09]: RegisteredServers: 1
+[14/10/2020 23:15:11]: Average server load: 0.4
+[14/10/2020 23:15:11]: RegisteredServers: 1
+[14/10/2020 23:15:13]: Average server load: 0.4
+[14/10/2020 23:15:13]: RegisteredServers: 1
+[14/10/2020 23:15:15]: Average server load: 0.4
+[14/10/2020 23:15:15]: RegisteredServers: 1
+[14/10/2020 23:15:17]: Average server load: 0.4
+[14/10/2020 23:15:17]: RegisteredServers: 1
+[14/10/2020 23:15:19]: Average server load: 0.4
+[14/10/2020 23:15:19]: RegisteredServers: 1
+[14/10/2020 23:15:21]: Average server load: 0.4
+[14/10/2020 23:15:21]: RegisteredServers: 1
+[14/10/2020 23:15:23]: Average server load: 0.4
+[14/10/2020 23:15:23]: RegisteredServers: 1
+[14/10/2020 23:15:25]: Average server load: 0.4
+[14/10/2020 23:15:25]: RegisteredServers: 1
+[14/10/2020 23:15:27]: Average server load: 0.4
+[14/10/2020 23:15:27]: RegisteredServers: 1
+[14/10/2020 23:15:29]: Average server load: 0.4
+[14/10/2020 23:15:29]: RegisteredServers: 1
+[14/10/2020 23:15:31]: Average server load: 0.4
+[14/10/2020 23:15:31]: RegisteredServers: 1
+[14/10/2020 23:15:33]: Average server load: 0.4
+[14/10/2020 23:15:33]: RegisteredServers: 1
+[14/10/2020 23:15:35]: Average server load: 0.4
+[14/10/2020 23:15:35]: RegisteredServers: 1
+[14/10/2020 23:15:37]: Average server load: 0.4
+[14/10/2020 23:15:37]: RegisteredServers: 1
+[14/10/2020 23:15:39]: Average server load: 0.4
+[14/10/2020 23:15:39]: RegisteredServers: 1
+[14/10/2020 23:15:41]: Average server load: 0.4
+[14/10/2020 23:15:41]: RegisteredServers: 1
+[14/10/2020 23:15:43]: Average server load: 0.4
+[14/10/2020 23:15:43]: RegisteredServers: 1
+[14/10/2020 23:15:45]: Average server load: 0.4
+[14/10/2020 23:15:45]: RegisteredServers: 1
+[14/10/2020 23:15:47]: Average server load: 0.4
+[14/10/2020 23:15:47]: RegisteredServers: 1
+[14/10/2020 23:15:49]: Average server load: 0.4
+[14/10/2020 23:15:49]: RegisteredServers: 1
+[14/10/2020 23:15:51]: Average server load: 0.4
+[14/10/2020 23:15:51]: RegisteredServers: 1
+[14/10/2020 23:15:53]: Average server load: 0.4
+[14/10/2020 23:15:53]: RegisteredServers: 1
+[14/10/2020 23:15:55]: Average server load: 0.4
+[14/10/2020 23:15:55]: RegisteredServers: 1
+[14/10/2020 23:15:57]: Average server load: 0.4
+[14/10/2020 23:15:57]: RegisteredServers: 1
+[14/10/2020 23:15:59]: Average server load: 0.4
+[14/10/2020 23:15:59]: RegisteredServers: 1
+[14/10/2020 23:16:01]: Average server load: 0.4
+[14/10/2020 23:16:01]: RegisteredServers: 1
+[14/10/2020 23:16:03]: Average server load: 0.4
+[14/10/2020 23:16:03]: RegisteredServers: 1
+[14/10/2020 23:16:05]: Average server load: 0.4
+[14/10/2020 23:16:05]: RegisteredServers: 1
+[14/10/2020 23:16:07]: Average server load: 0.4
+[14/10/2020 23:16:07]: RegisteredServers: 1
+[14/10/2020 23:16:09]: Average server load: 0.4
+[14/10/2020 23:16:09]: RegisteredServers: 1
+[14/10/2020 23:16:11]: Average server load: 0.4
+[14/10/2020 23:16:11]: RegisteredServers: 1
+[14/10/2020 23:16:13]: Average server load: 0.4
+[14/10/2020 23:16:13]: RegisteredServers: 1
+[14/10/2020 23:16:15]: Average server load: 0.4
+[14/10/2020 23:16:15]: RegisteredServers: 1
+[14/10/2020 23:16:17]: Average server load: 0.4
+[14/10/2020 23:16:17]: RegisteredServers: 1
+[14/10/2020 23:16:19]: Average server load: 0.4
+[14/10/2020 23:16:19]: RegisteredServers: 1
+[14/10/2020 23:16:21]: Average server load: 0.4
+[14/10/2020 23:16:21]: RegisteredServers: 1
+[14/10/2020 23:16:23]: Average server load: 0.4
+[14/10/2020 23:16:23]: RegisteredServers: 1
+[14/10/2020 23:16:25]: Average server load: 0.4
+[14/10/2020 23:16:25]: RegisteredServers: 1
+[14/10/2020 23:16:27]: Average server load: 0.4
+[14/10/2020 23:16:27]: RegisteredServers: 1
+[14/10/2020 23:16:29]: Average server load: 0.4
+[14/10/2020 23:16:29]: RegisteredServers: 1
+[14/10/2020 23:16:31]: Average server load: 0.4
+[14/10/2020 23:16:31]: RegisteredServers: 1
+[14/10/2020 23:16:33]: Average server load: 0.4
+[14/10/2020 23:16:33]: RegisteredServers: 1
+[14/10/2020 23:16:35]: Average server load: 0.4
+[14/10/2020 23:16:35]: RegisteredServers: 1
+[14/10/2020 23:16:37]: Average server load: 0.4
+[14/10/2020 23:16:37]: RegisteredServers: 1
+[14/10/2020 23:16:39]: Average server load: 0.4
+[14/10/2020 23:16:39]: RegisteredServers: 1
+[14/10/2020 23:16:41]: Average server load: 0.4
+[14/10/2020 23:16:41]: RegisteredServers: 1
+[14/10/2020 23:16:43]: Average server load: 0.4
+[14/10/2020 23:16:43]: RegisteredServers: 1
+[14/10/2020 23:16:45]: Average server load: 0.4
+[14/10/2020 23:16:45]: RegisteredServers: 1
+[14/10/2020 23:16:47]: Average server load: 0.4
+[14/10/2020 23:16:47]: RegisteredServers: 1
+[14/10/2020 23:16:49]: Average server load: 0.4
+[14/10/2020 23:16:49]: RegisteredServers: 1
+[14/10/2020 23:16:51]: Average server load: 0.4
+[14/10/2020 23:16:51]: RegisteredServers: 1
+[14/10/2020 23:16:53]: Average server load: 0.4
+[14/10/2020 23:16:53]: RegisteredServers: 1
+[14/10/2020 23:16:55]: Average server load: 0.4
+[14/10/2020 23:16:55]: RegisteredServers: 1
+[14/10/2020 23:16:57]: Average server load: 0.4
+[14/10/2020 23:16:57]: RegisteredServers: 1
+[14/10/2020 23:16:59]: Average server load: 0.4
+[14/10/2020 23:16:59]: RegisteredServers: 1
+[14/10/2020 23:17:01]: Average server load: 0.4
+[14/10/2020 23:17:01]: RegisteredServers: 1
+[14/10/2020 23:17:03]: Average server load: 0.4
+[14/10/2020 23:17:03]: RegisteredServers: 1
+[14/10/2020 23:17:05]: Average server load: 0.4
+[14/10/2020 23:17:05]: RegisteredServers: 1
+[14/10/2020 23:17:07]: Average server load: 0.4
+[14/10/2020 23:17:07]: RegisteredServers: 1
+[14/10/2020 23:17:09]: Average server load: 0.4
+[14/10/2020 23:17:09]: RegisteredServers: 1
+[14/10/2020 23:17:11]: Average server load: 0.4
+[14/10/2020 23:17:11]: RegisteredServers: 1
+[14/10/2020 23:17:13]: Average server load: 0.4
+[14/10/2020 23:17:13]: RegisteredServers: 1
+[14/10/2020 23:17:15]: Average server load: 0.4
+[14/10/2020 23:17:15]: RegisteredServers: 1
+[14/10/2020 23:17:17]: Average server load: 0.4
+[14/10/2020 23:17:17]: RegisteredServers: 1
+[14/10/2020 23:17:19]: Average server load: 0.4
+[14/10/2020 23:17:19]: RegisteredServers: 1
+[14/10/2020 23:17:21]: Average server load: 0.4
+[14/10/2020 23:17:21]: RegisteredServers: 1
+[14/10/2020 23:17:23]: Average server load: 0.4
+[14/10/2020 23:17:23]: RegisteredServers: 1
+[14/10/2020 23:17:25]: Average server load: 0.4
+[14/10/2020 23:17:25]: RegisteredServers: 1
+[14/10/2020 23:17:27]: Average server load: 0.4
+[14/10/2020 23:17:27]: RegisteredServers: 1
+[14/10/2020 23:17:29]: Average server load: 0.4
+[14/10/2020 23:17:29]: RegisteredServers: 1
+[14/10/2020 23:17:31]: Average server load: 0.4
+[14/10/2020 23:17:31]: RegisteredServers: 1
+[14/10/2020 23:17:33]: Average server load: 0.4
+[14/10/2020 23:17:33]: RegisteredServers: 1
+[14/10/2020 23:17:35]: Average server load: 0.4
+[14/10/2020 23:17:35]: RegisteredServers: 1
+[14/10/2020 23:17:37]: Average server load: 0.4
+[14/10/2020 23:17:37]: RegisteredServers: 1
+[14/10/2020 23:17:39]: Average server load: 0.4
+[14/10/2020 23:17:39]: RegisteredServers: 1
+[14/10/2020 23:17:41]: Average server load: 0.4
+[14/10/2020 23:17:41]: RegisteredServers: 1
+[14/10/2020 23:17:43]: Average server load: 0.4
+[14/10/2020 23:17:43]: RegisteredServers: 1
+[14/10/2020 23:17:45]: Average server load: 0.4
+[14/10/2020 23:17:45]: RegisteredServers: 1
+[14/10/2020 23:17:47]: Average server load: 0.4
+[14/10/2020 23:17:47]: RegisteredServers: 1
+[14/10/2020 23:17:49]: Average server load: 0.4
+[14/10/2020 23:17:49]: RegisteredServers: 1
+[14/10/2020 23:17:51]: Average server load: 0.4
+[14/10/2020 23:17:51]: RegisteredServers: 1
+[14/10/2020 23:17:53]: Average server load: 0.4
+[14/10/2020 23:17:53]: RegisteredServers: 1
+[14/10/2020 23:17:55]: Average server load: 0.4
+[14/10/2020 23:17:55]: RegisteredServers: 1
+[14/10/2020 23:17:57]: Average server load: 0.4
+[14/10/2020 23:17:57]: RegisteredServers: 1
+[14/10/2020 23:17:59]: Average server load: 0.4
+[14/10/2020 23:17:59]: RegisteredServers: 1
+[14/10/2020 23:18:01]: Average server load: 0.4
+[14/10/2020 23:18:01]: RegisteredServers: 1
+[14/10/2020 23:18:03]: Average server load: 0.4
+[14/10/2020 23:18:03]: RegisteredServers: 1
+[14/10/2020 23:18:05]: Average server load: 0.4
+[14/10/2020 23:18:05]: RegisteredServers: 1
+[14/10/2020 23:18:07]: Average server load: 0.4
+[14/10/2020 23:18:07]: RegisteredServers: 1
+[14/10/2020 23:18:09]: Average server load: 0.4
+[14/10/2020 23:18:09]: RegisteredServers: 1
+[14/10/2020 23:18:11]: Average server load: 0.4
+[14/10/2020 23:18:11]: RegisteredServers: 1
+[14/10/2020 23:18:13]: Average server load: 0.4
+[14/10/2020 23:18:13]: RegisteredServers: 1
+[14/10/2020 23:18:15]: Average server load: 0.4
+[14/10/2020 23:18:15]: RegisteredServers: 1
+[14/10/2020 23:18:17]: Average server load: 0.4
+[14/10/2020 23:18:17]: RegisteredServers: 1
+[14/10/2020 23:18:19]: Average server load: 0.4
+[14/10/2020 23:18:19]: RegisteredServers: 1
+[14/10/2020 23:18:21]: Average server load: 0.4
+[14/10/2020 23:18:21]: RegisteredServers: 1
+[14/10/2020 23:18:23]: Average server load: 0.4
+[14/10/2020 23:18:23]: RegisteredServers: 1
+[14/10/2020 23:18:25]: Average server load: 0.4
+[14/10/2020 23:18:25]: RegisteredServers: 1
+[14/10/2020 23:18:27]: Average server load: 0.4
+[14/10/2020 23:18:27]: RegisteredServers: 1
+[14/10/2020 23:18:29]: Average server load: 0.4
+[14/10/2020 23:18:29]: RegisteredServers: 1
+[14/10/2020 23:18:31]: Average server load: 0.4
+[14/10/2020 23:18:31]: RegisteredServers: 1
+[14/10/2020 23:18:33]: Average server load: 0.4
+[14/10/2020 23:18:33]: RegisteredServers: 1
+[14/10/2020 23:18:35]: Average server load: 0.4
+[14/10/2020 23:18:35]: RegisteredServers: 1
+[14/10/2020 23:18:37]: Average server load: 0.4
+[14/10/2020 23:18:37]: RegisteredServers: 1
+[14/10/2020 23:18:39]: Average server load: 0.4
+[14/10/2020 23:18:39]: RegisteredServers: 1
+[14/10/2020 23:18:41]: Average server load: 0.4
+[14/10/2020 23:18:41]: RegisteredServers: 1
+[14/10/2020 23:18:43]: Average server load: 0.4
+[14/10/2020 23:18:43]: RegisteredServers: 1
+[14/10/2020 23:18:45]: Average server load: 0.4
+[14/10/2020 23:18:45]: RegisteredServers: 1
+[14/10/2020 23:18:47]: Average server load: 0.4
+[14/10/2020 23:18:47]: RegisteredServers: 1
+[14/10/2020 23:18:49]: Average server load: 0.4
+[14/10/2020 23:18:49]: RegisteredServers: 1
+[14/10/2020 23:18:51]: Average server load: 0.4
+[14/10/2020 23:18:51]: RegisteredServers: 1
+[14/10/2020 23:18:53]: Average server load: 0.4
+[14/10/2020 23:18:53]: RegisteredServers: 1
+[14/10/2020 23:18:55]: Average server load: 0.4
+[14/10/2020 23:18:55]: RegisteredServers: 1
+[14/10/2020 23:18:57]: Average server load: 0.4
+[14/10/2020 23:18:57]: RegisteredServers: 1
+[14/10/2020 23:18:59]: Average server load: 0.4
+[14/10/2020 23:18:59]: RegisteredServers: 1
+[14/10/2020 23:19:01]: Average server load: 0.4
+[14/10/2020 23:19:01]: RegisteredServers: 1
+[14/10/2020 23:19:03]: Average server load: 0.4
+[14/10/2020 23:19:03]: RegisteredServers: 1
+[14/10/2020 23:19:05]: Average server load: 0.4
+[14/10/2020 23:19:05]: RegisteredServers: 1
+[14/10/2020 23:19:07]: Average server load: 0.4
+[14/10/2020 23:19:07]: RegisteredServers: 1
+[14/10/2020 23:19:09]: Average server load: 0.4
+[14/10/2020 23:19:09]: RegisteredServers: 1
+[14/10/2020 23:19:11]: Average server load: 0.4
+[14/10/2020 23:19:11]: RegisteredServers: 1
+[14/10/2020 23:19:13]: Average server load: 0.4
+[14/10/2020 23:19:13]: RegisteredServers: 1
+[14/10/2020 23:19:15]: Average server load: 0.4
+[14/10/2020 23:19:15]: RegisteredServers: 1
+[14/10/2020 23:19:17]: Average server load: 0.4
+[14/10/2020 23:19:17]: RegisteredServers: 1
+[14/10/2020 23:19:19]: Average server load: 0.4
+[14/10/2020 23:19:19]: RegisteredServers: 1
+[14/10/2020 23:19:21]: Average server load: 0.4
+[14/10/2020 23:19:21]: RegisteredServers: 1
+[14/10/2020 23:19:23]: Average server load: 0.4
+[14/10/2020 23:19:23]: RegisteredServers: 1
+[14/10/2020 23:19:25]: Average server load: 0.4
+[14/10/2020 23:19:25]: RegisteredServers: 1
+[14/10/2020 23:19:27]: Average server load: 0.4
+[14/10/2020 23:19:27]: RegisteredServers: 1
+[14/10/2020 23:19:29]: Average server load: 0.4
+[14/10/2020 23:19:29]: RegisteredServers: 1
+[14/10/2020 23:19:31]: Average server load: 0.4
+[14/10/2020 23:19:31]: RegisteredServers: 1
+[14/10/2020 23:19:33]: Average server load: 0.4
+[14/10/2020 23:19:33]: RegisteredServers: 1
+[14/10/2020 23:19:35]: Average server load: 0.4
+[14/10/2020 23:19:35]: RegisteredServers: 1
+[14/10/2020 23:19:37]: Average server load: 0.4
+[14/10/2020 23:19:37]: RegisteredServers: 1
+[14/10/2020 23:19:39]: Average server load: 0.4
+[14/10/2020 23:19:39]: RegisteredServers: 1
+[14/10/2020 23:19:41]: Average server load: 0.4
+[14/10/2020 23:19:41]: RegisteredServers: 1
+[14/10/2020 23:19:43]: Average server load: 0.4
+[14/10/2020 23:19:43]: RegisteredServers: 1
+[14/10/2020 23:19:45]: Average server load: 0.4
+[14/10/2020 23:19:45]: RegisteredServers: 1
+[14/10/2020 23:19:47]: Average server load: 0.4
+[14/10/2020 23:19:47]: RegisteredServers: 1
+[14/10/2020 23:19:49]: Average server load: 0.4
+[14/10/2020 23:19:49]: RegisteredServers: 1
+[14/10/2020 23:19:51]: Average server load: 0.4
+[14/10/2020 23:19:51]: RegisteredServers: 1
+[14/10/2020 23:19:53]: Average server load: 0.4
+[14/10/2020 23:19:53]: RegisteredServers: 1
+[14/10/2020 23:19:55]: Average server load: 0.4
+[14/10/2020 23:19:55]: RegisteredServers: 1
+[14/10/2020 23:19:57]: Average server load: 0.4
+[14/10/2020 23:19:57]: RegisteredServers: 1
+[14/10/2020 23:19:59]: Average server load: 0.4
+[14/10/2020 23:19:59]: RegisteredServers: 1
+[14/10/2020 23:20:01]: Average server load: 0.4
+[14/10/2020 23:20:01]: RegisteredServers: 1
+[14/10/2020 23:20:03]: Average server load: 0.4
+[14/10/2020 23:20:03]: RegisteredServers: 1
+[14/10/2020 23:20:05]: Average server load: 0.4
+[14/10/2020 23:20:05]: RegisteredServers: 1
+[14/10/2020 23:20:07]: Average server load: 0.4
+[14/10/2020 23:20:07]: RegisteredServers: 1
+[14/10/2020 23:20:09]: Average server load: 0.4
+[14/10/2020 23:20:09]: RegisteredServers: 1
+[14/10/2020 23:20:11]: Average server load: 0.4
+[14/10/2020 23:20:11]: RegisteredServers: 1
+[14/10/2020 23:20:13]: Average server load: 0.4
+[14/10/2020 23:20:13]: RegisteredServers: 1
+[14/10/2020 23:20:15]: Average server load: 0.4
+[14/10/2020 23:20:15]: RegisteredServers: 1
+[14/10/2020 23:20:17]: Average server load: 0.4
+[14/10/2020 23:20:17]: RegisteredServers: 1
+[14/10/2020 23:20:19]: Average server load: 0.4
+[14/10/2020 23:20:19]: RegisteredServers: 1
+[14/10/2020 23:20:21]: Average server load: 0.4
+[14/10/2020 23:20:21]: RegisteredServers: 1
+[14/10/2020 23:20:23]: Average server load: 0.4
+[14/10/2020 23:20:23]: RegisteredServers: 1
+[14/10/2020 23:20:25]: Average server load: 0.4
+[14/10/2020 23:20:25]: RegisteredServers: 1
+[14/10/2020 23:20:27]: Average server load: 0.4
+[14/10/2020 23:20:27]: RegisteredServers: 1
+[14/10/2020 23:20:29]: Average server load: 0.4
+[14/10/2020 23:20:29]: RegisteredServers: 1
+[14/10/2020 23:20:31]: Average server load: 0.4
+[14/10/2020 23:20:31]: RegisteredServers: 1
+[14/10/2020 23:20:33]: Average server load: 0.4
+[14/10/2020 23:20:33]: RegisteredServers: 1
+[14/10/2020 23:20:35]: Average server load: 0.4
+[14/10/2020 23:20:35]: RegisteredServers: 1
+[14/10/2020 23:20:37]: Average server load: 0.4
+[14/10/2020 23:20:37]: RegisteredServers: 1
+[14/10/2020 23:20:39]: Average server load: 0.4
+[14/10/2020 23:20:39]: RegisteredServers: 1
+[14/10/2020 23:20:41]: Average server load: 0.4
+[14/10/2020 23:20:41]: RegisteredServers: 1
+[14/10/2020 23:20:43]: Average server load: 0.4
+[14/10/2020 23:20:43]: RegisteredServers: 1
+[14/10/2020 23:20:45]: Average server load: 0.4
+[14/10/2020 23:20:45]: RegisteredServers: 1
+[14/10/2020 23:20:47]: Average server load: 0.4
+[14/10/2020 23:20:47]: RegisteredServers: 1
+[14/10/2020 23:20:49]: Average server load: 0.4
+[14/10/2020 23:20:49]: RegisteredServers: 1
+[14/10/2020 23:20:51]: Average server load: 0.4
+[14/10/2020 23:20:51]: RegisteredServers: 1
+[14/10/2020 23:20:53]: Average server load: 0.4
+[14/10/2020 23:20:53]: RegisteredServers: 1
+[14/10/2020 23:20:55]: Average server load: 0.4
+[14/10/2020 23:20:55]: RegisteredServers: 1
+[14/10/2020 23:20:57]: Average server load: 0.4
+[14/10/2020 23:20:57]: RegisteredServers: 1
+[14/10/2020 23:20:59]: Average server load: 0.4
+[14/10/2020 23:20:59]: RegisteredServers: 1
+[14/10/2020 23:21:01]: Average server load: 0.4
+[14/10/2020 23:21:01]: RegisteredServers: 1
+[14/10/2020 23:21:03]: Average server load: 0.4
+[14/10/2020 23:21:03]: RegisteredServers: 1
+[14/10/2020 23:21:05]: Average server load: 0.4
+[14/10/2020 23:21:05]: RegisteredServers: 1
+[14/10/2020 23:21:07]: Average server load: 0.4
+[14/10/2020 23:21:07]: RegisteredServers: 1
+[14/10/2020 23:21:09]: Average server load: 0.4
+[14/10/2020 23:21:09]: RegisteredServers: 1
+[14/10/2020 23:21:11]: Average server load: 0.4
+[14/10/2020 23:21:11]: RegisteredServers: 1
+[14/10/2020 23:21:13]: Average server load: 0.4
+[14/10/2020 23:21:13]: RegisteredServers: 1
+[14/10/2020 23:21:15]: Average server load: 0.4
+[14/10/2020 23:21:15]: RegisteredServers: 1
+[14/10/2020 23:21:17]: Average server load: 0.4
+[14/10/2020 23:21:17]: RegisteredServers: 1
+[14/10/2020 23:21:19]: Average server load: 0.4
+[14/10/2020 23:21:19]: RegisteredServers: 1
+[14/10/2020 23:21:21]: Average server load: 0.4
+[14/10/2020 23:21:21]: RegisteredServers: 1
+[14/10/2020 23:21:23]: Average server load: 0.4
+[14/10/2020 23:21:23]: RegisteredServers: 1
+[14/10/2020 23:21:25]: Average server load: 0.4
+[14/10/2020 23:21:25]: RegisteredServers: 1
+[14/10/2020 23:21:27]: Average server load: 0.4
+[14/10/2020 23:21:27]: RegisteredServers: 1
+[14/10/2020 23:21:29]: Average server load: 0.4
+[14/10/2020 23:21:29]: RegisteredServers: 1
+[14/10/2020 23:21:31]: Average server load: 0.4
+[14/10/2020 23:21:31]: RegisteredServers: 1
+[14/10/2020 23:21:33]: Average server load: 0.4
+[14/10/2020 23:21:33]: RegisteredServers: 1
+[14/10/2020 23:21:35]: Average server load: 0.4
+[14/10/2020 23:21:35]: RegisteredServers: 1
+[14/10/2020 23:21:37]: Average server load: 0.4
+[14/10/2020 23:21:37]: RegisteredServers: 1
+[14/10/2020 23:21:39]: Average server load: 0.4
+[14/10/2020 23:21:39]: RegisteredServers: 1
+[14/10/2020 23:21:41]: Average server load: 0.4
+[14/10/2020 23:21:41]: RegisteredServers: 1
+[14/10/2020 23:21:43]: Average server load: 0.4
+[14/10/2020 23:21:43]: RegisteredServers: 1
+[14/10/2020 23:21:45]: Average server load: 0.4
+[14/10/2020 23:21:45]: RegisteredServers: 1
+[14/10/2020 23:21:47]: Average server load: 0.4
+[14/10/2020 23:21:47]: RegisteredServers: 1
+[14/10/2020 23:21:49]: Average server load: 0.4
+[14/10/2020 23:21:49]: RegisteredServers: 1
+[14/10/2020 23:21:51]: Average server load: 0.4
+[14/10/2020 23:21:51]: RegisteredServers: 1
+[14/10/2020 23:21:53]: Average server load: 0.4
+[14/10/2020 23:21:53]: RegisteredServers: 1
+[14/10/2020 23:21:55]: Average server load: 0.4
+[14/10/2020 23:21:55]: RegisteredServers: 1
+[14/10/2020 23:21:57]: Average server load: 0.4
+[14/10/2020 23:21:57]: RegisteredServers: 1
+[14/10/2020 23:21:59]: Average server load: 0.4
+[14/10/2020 23:21:59]: RegisteredServers: 1
+[14/10/2020 23:22:01]: Average server load: 0.4
+[14/10/2020 23:22:01]: RegisteredServers: 1
+[14/10/2020 23:22:03]: Average server load: 0.4
+[14/10/2020 23:22:03]: RegisteredServers: 1
+[14/10/2020 23:22:05]: Average server load: 0.4
+[14/10/2020 23:22:05]: RegisteredServers: 1
+[14/10/2020 23:22:07]: Average server load: 0.4
+[14/10/2020 23:22:07]: RegisteredServers: 1
+[14/10/2020 23:22:09]: Average server load: 0.4
+[14/10/2020 23:22:09]: RegisteredServers: 1
+[14/10/2020 23:22:11]: Average server load: 0.4
+[14/10/2020 23:22:11]: RegisteredServers: 1
+[14/10/2020 23:22:13]: Average server load: 0.4
+[14/10/2020 23:22:13]: RegisteredServers: 1
+[14/10/2020 23:22:15]: Average server load: 0.4
+[14/10/2020 23:22:15]: RegisteredServers: 1
+[14/10/2020 23:22:17]: Average server load: 0.4
+[14/10/2020 23:22:17]: RegisteredServers: 1
+[14/10/2020 23:22:19]: Average server load: 0.4
+[14/10/2020 23:22:19]: RegisteredServers: 1
+[14/10/2020 23:22:21]: Average server load: 0.4
+[14/10/2020 23:22:21]: RegisteredServers: 1
+[14/10/2020 23:22:23]: Average server load: 0.4
+[14/10/2020 23:22:23]: RegisteredServers: 1
+[14/10/2020 23:22:25]: Average server load: 0.4
+[14/10/2020 23:22:25]: RegisteredServers: 1
+[14/10/2020 23:22:27]: Average server load: 0.4
+[14/10/2020 23:22:27]: RegisteredServers: 1
+[14/10/2020 23:22:29]: Average server load: 0.4
+[14/10/2020 23:22:29]: RegisteredServers: 1
+[14/10/2020 23:22:31]: Average server load: 0.4
+[14/10/2020 23:22:31]: RegisteredServers: 1
+[14/10/2020 23:22:33]: Average server load: 0.4
+[14/10/2020 23:22:33]: RegisteredServers: 1
+[14/10/2020 23:22:35]: Average server load: 0.4
+[14/10/2020 23:22:35]: RegisteredServers: 1
+[14/10/2020 23:22:37]: Average server load: 0.4
+[14/10/2020 23:22:37]: RegisteredServers: 1
+[14/10/2020 23:22:39]: Average server load: 0.4
+[14/10/2020 23:22:39]: RegisteredServers: 1
+[14/10/2020 23:22:41]: Average server load: 0.4
+[14/10/2020 23:22:41]: RegisteredServers: 1
+[14/10/2020 23:22:43]: Average server load: 0.4
+[14/10/2020 23:22:43]: RegisteredServers: 1
+[14/10/2020 23:22:45]: Average server load: 0.4
+[14/10/2020 23:22:45]: RegisteredServers: 1
+[14/10/2020 23:22:47]: Average server load: 0.4
+[14/10/2020 23:22:47]: RegisteredServers: 1
+[14/10/2020 23:22:49]: Average server load: 0.4
+[14/10/2020 23:22:49]: RegisteredServers: 1
+[14/10/2020 23:22:51]: Average server load: 0.4
+[14/10/2020 23:22:51]: RegisteredServers: 1
+[14/10/2020 23:22:53]: Average server load: 0.4
+[14/10/2020 23:22:53]: RegisteredServers: 1
+[14/10/2020 23:22:55]: Average server load: 0.4
+[14/10/2020 23:22:55]: RegisteredServers: 1
+[14/10/2020 23:22:57]: Average server load: 0.4
+[14/10/2020 23:22:57]: RegisteredServers: 1
+[14/10/2020 23:22:59]: Average server load: 0.4
+[14/10/2020 23:22:59]: RegisteredServers: 1
+[14/10/2020 23:23:01]: Average server load: 0.4
+[14/10/2020 23:23:01]: RegisteredServers: 1
+[14/10/2020 23:23:03]: Average server load: 0.4
+[14/10/2020 23:23:03]: RegisteredServers: 1
+[14/10/2020 23:23:05]: Average server load: 0.4
+[14/10/2020 23:23:05]: RegisteredServers: 1
+[14/10/2020 23:23:07]: Average server load: 0.4
+[14/10/2020 23:23:07]: RegisteredServers: 1
+[14/10/2020 23:23:09]: Average server load: 0.4
+[14/10/2020 23:23:09]: RegisteredServers: 1
+[14/10/2020 23:23:11]: Average server load: 0.4
+[14/10/2020 23:23:11]: RegisteredServers: 1
+[14/10/2020 23:23:13]: Average server load: 0.4
+[14/10/2020 23:23:13]: RegisteredServers: 1
+[14/10/2020 23:23:15]: Average server load: 0.4
+[14/10/2020 23:23:15]: RegisteredServers: 1
+[14/10/2020 23:23:17]: Average server load: 0.4
+[14/10/2020 23:23:17]: RegisteredServers: 1
+[14/10/2020 23:23:19]: Average server load: 0.4
+[14/10/2020 23:23:19]: RegisteredServers: 1
+[14/10/2020 23:23:21]: Average server load: 0.4
+[14/10/2020 23:23:21]: RegisteredServers: 1
+[14/10/2020 23:23:23]: Average server load: 0.4
+[14/10/2020 23:23:23]: RegisteredServers: 1
+[14/10/2020 23:23:25]: Average server load: 0.4
+[14/10/2020 23:23:25]: RegisteredServers: 1
+[14/10/2020 23:23:27]: Average server load: 0.4
+[14/10/2020 23:23:27]: RegisteredServers: 1
+[14/10/2020 23:23:29]: Average server load: 0.4
+[14/10/2020 23:23:29]: RegisteredServers: 1
+[14/10/2020 23:23:31]: Average server load: 0.4
+[14/10/2020 23:23:31]: RegisteredServers: 1
+[14/10/2020 23:23:33]: Average server load: 0.4
+[14/10/2020 23:23:33]: RegisteredServers: 1
+[14/10/2020 23:23:35]: Average server load: 0.4
+[14/10/2020 23:23:35]: RegisteredServers: 1
+[14/10/2020 23:23:37]: Average server load: 0.4
+[14/10/2020 23:23:37]: RegisteredServers: 1
+[14/10/2020 23:23:39]: Average server load: 0.4
+[14/10/2020 23:23:39]: RegisteredServers: 1
+[14/10/2020 23:23:41]: Average server load: 0.4
+[14/10/2020 23:23:41]: RegisteredServers: 1
+[14/10/2020 23:23:43]: Average server load: 0.4
+[14/10/2020 23:23:43]: RegisteredServers: 1
+[14/10/2020 23:23:45]: Average server load: 0.4
+[14/10/2020 23:23:45]: RegisteredServers: 1
+[14/10/2020 23:23:47]: Average server load: 0.4
+[14/10/2020 23:23:47]: RegisteredServers: 1
+[14/10/2020 23:23:49]: Average server load: 0.4
+[14/10/2020 23:23:49]: RegisteredServers: 1
+[14/10/2020 23:23:51]: Average server load: 0.4
+[14/10/2020 23:23:51]: RegisteredServers: 1
+[14/10/2020 23:23:53]: Average server load: 0.4
+[14/10/2020 23:23:53]: RegisteredServers: 1
+[14/10/2020 23:23:55]: Average server load: 0.4
+[14/10/2020 23:23:55]: RegisteredServers: 1
+[14/10/2020 23:23:57]: Average server load: 0.4
+[14/10/2020 23:23:57]: RegisteredServers: 1
+[14/10/2020 23:23:59]: Average server load: 0.4
+[14/10/2020 23:23:59]: RegisteredServers: 1
+[14/10/2020 23:24:01]: Average server load: 0.4
+[14/10/2020 23:24:01]: RegisteredServers: 1
+[14/10/2020 23:24:03]: Average server load: 0.4
+[14/10/2020 23:24:03]: RegisteredServers: 1
+[14/10/2020 23:24:05]: Average server load: 0.4
+[14/10/2020 23:24:05]: RegisteredServers: 1
+[14/10/2020 23:24:07]: Average server load: 0.4
+[14/10/2020 23:24:07]: RegisteredServers: 1
+[14/10/2020 23:24:09]: Average server load: 0.4
+[14/10/2020 23:24:09]: RegisteredServers: 1
+[14/10/2020 23:24:11]: Average server load: 0.4
+[14/10/2020 23:24:11]: RegisteredServers: 1
+[14/10/2020 23:24:13]: Average server load: 0.4
+[14/10/2020 23:24:13]: RegisteredServers: 1
+[14/10/2020 23:24:15]: Average server load: 0.4
+[14/10/2020 23:24:15]: RegisteredServers: 1
+[14/10/2020 23:24:17]: Average server load: 0.4
+[14/10/2020 23:24:17]: RegisteredServers: 1
+[14/10/2020 23:24:19]: Average server load: 0.4
+[14/10/2020 23:24:19]: RegisteredServers: 1
+[14/10/2020 23:24:21]: Average server load: 0.4
+[14/10/2020 23:24:21]: RegisteredServers: 1
+[14/10/2020 23:24:23]: Average server load: 0.4
+[14/10/2020 23:24:23]: RegisteredServers: 1
+[14/10/2020 23:24:25]: Average server load: 0.4
+[14/10/2020 23:24:25]: RegisteredServers: 1
+[14/10/2020 23:24:27]: Average server load: 0.4
+[14/10/2020 23:24:27]: RegisteredServers: 1
+[14/10/2020 23:24:29]: Average server load: 0.4
+[14/10/2020 23:24:29]: RegisteredServers: 1
+[14/10/2020 23:24:31]: Average server load: 0.4
+[14/10/2020 23:24:31]: RegisteredServers: 1
+[14/10/2020 23:24:33]: Average server load: 0.4
+[14/10/2020 23:24:33]: RegisteredServers: 1
+[14/10/2020 23:24:35]: Average server load: 0.4
+[14/10/2020 23:24:35]: RegisteredServers: 1
+[14/10/2020 23:24:37]: Average server load: 0.4
+[14/10/2020 23:24:37]: RegisteredServers: 1
+[14/10/2020 23:24:39]: Average server load: 0.4
+[14/10/2020 23:24:39]: RegisteredServers: 1
+[14/10/2020 23:24:41]: Average server load: 0.4
+[14/10/2020 23:24:41]: RegisteredServers: 1
+[14/10/2020 23:24:43]: Average server load: 0.4
+[14/10/2020 23:24:43]: RegisteredServers: 1
+[14/10/2020 23:24:45]: Average server load: 0.4
+[14/10/2020 23:24:45]: RegisteredServers: 1
+[14/10/2020 23:24:47]: Average server load: 0.4
+[14/10/2020 23:24:47]: RegisteredServers: 1
+[14/10/2020 23:24:49]: Average server load: 0.4
+[14/10/2020 23:24:49]: RegisteredServers: 1
+[14/10/2020 23:24:51]: Average server load: 0.4
+[14/10/2020 23:24:51]: RegisteredServers: 1
+[14/10/2020 23:24:53]: Average server load: 0.4
+[14/10/2020 23:24:53]: RegisteredServers: 1
+[14/10/2020 23:24:55]: Average server load: 0.4
+[14/10/2020 23:24:55]: RegisteredServers: 1
+[14/10/2020 23:24:57]: Average server load: 0.4
+[14/10/2020 23:24:57]: RegisteredServers: 1
+[14/10/2020 23:24:59]: Average server load: 0.4
+[14/10/2020 23:24:59]: RegisteredServers: 1
+[14/10/2020 23:25:01]: Average server load: 0.4
+[14/10/2020 23:25:01]: RegisteredServers: 1
+[14/10/2020 23:25:03]: Average server load: 0.4
+[14/10/2020 23:25:03]: RegisteredServers: 1
+[14/10/2020 23:25:05]: Average server load: 0.4
+[14/10/2020 23:25:05]: RegisteredServers: 1
+[14/10/2020 23:25:07]: Average server load: 0.4
+[14/10/2020 23:25:07]: RegisteredServers: 1
+[14/10/2020 23:25:09]: Average server load: 0.4
+[14/10/2020 23:25:09]: RegisteredServers: 1
+[14/10/2020 23:25:11]: Average server load: 0.4
+[14/10/2020 23:25:11]: RegisteredServers: 1
+[14/10/2020 23:25:13]: Average server load: 0.4
+[14/10/2020 23:25:13]: RegisteredServers: 1
+[14/10/2020 23:25:15]: Average server load: 0.4
+[14/10/2020 23:25:15]: RegisteredServers: 1
+[14/10/2020 23:25:17]: Average server load: 0.4
+[14/10/2020 23:25:17]: RegisteredServers: 1
+[14/10/2020 23:25:19]: Average server load: 0.4
+[14/10/2020 23:25:19]: RegisteredServers: 1
+[14/10/2020 23:25:21]: Average server load: 0.4
+[14/10/2020 23:25:21]: RegisteredServers: 1
+[14/10/2020 23:25:23]: Average server load: 0.4
+[14/10/2020 23:25:23]: RegisteredServers: 1
+[14/10/2020 23:25:25]: Average server load: 0.4
+[14/10/2020 23:25:25]: RegisteredServers: 1
+[14/10/2020 23:25:27]: Average server load: 0.4
+[14/10/2020 23:25:27]: RegisteredServers: 1
+[14/10/2020 23:25:29]: Average server load: 0.4
+[14/10/2020 23:25:29]: RegisteredServers: 1
+[14/10/2020 23:25:31]: Average server load: 0.4
+[14/10/2020 23:25:31]: RegisteredServers: 1
+[14/10/2020 23:25:33]: Average server load: 0.4
+[14/10/2020 23:25:33]: RegisteredServers: 1
+[14/10/2020 23:25:35]: Average server load: 0.4
+[14/10/2020 23:25:35]: RegisteredServers: 1
+[14/10/2020 23:25:37]: Average server load: 0.4
+[14/10/2020 23:25:37]: RegisteredServers: 1
+[14/10/2020 23:25:39]: Average server load: 0.4
+[14/10/2020 23:25:39]: RegisteredServers: 1
+[14/10/2020 23:25:41]: Average server load: 0.4
+[14/10/2020 23:25:41]: RegisteredServers: 1
+[14/10/2020 23:25:43]: Average server load: 0.4
+[14/10/2020 23:25:43]: RegisteredServers: 1
+[14/10/2020 23:25:45]: Average server load: 0.4
+[14/10/2020 23:25:45]: RegisteredServers: 1
+[14/10/2020 23:25:47]: Average server load: 0.4
+[14/10/2020 23:25:47]: RegisteredServers: 1
+[14/10/2020 23:25:49]: Average server load: 0.4
+[14/10/2020 23:25:49]: RegisteredServers: 1
+[14/10/2020 23:25:51]: Average server load: 0.4
+[14/10/2020 23:25:51]: RegisteredServers: 1
+[14/10/2020 23:25:53]: Average server load: 0.4
+[14/10/2020 23:25:53]: RegisteredServers: 1
+[14/10/2020 23:25:55]: Average server load: 0.4
+[14/10/2020 23:25:55]: RegisteredServers: 1
+[14/10/2020 23:25:57]: Average server load: 0.4
+[14/10/2020 23:25:57]: RegisteredServers: 1
+[14/10/2020 23:25:59]: Average server load: 0.4
+[14/10/2020 23:25:59]: RegisteredServers: 1
+[14/10/2020 23:26:01]: Average server load: 0.4
+[14/10/2020 23:26:01]: RegisteredServers: 1
+[14/10/2020 23:26:03]: Average server load: 0.4
+[14/10/2020 23:26:03]: RegisteredServers: 1
+[14/10/2020 23:26:05]: Average server load: 0.4
+[14/10/2020 23:26:05]: RegisteredServers: 1
+[14/10/2020 23:26:07]: Average server load: 0.4
+[14/10/2020 23:26:07]: RegisteredServers: 1
+[14/10/2020 23:26:09]: Average server load: 0.4
+[14/10/2020 23:26:09]: RegisteredServers: 1
+[14/10/2020 23:26:11]: Average server load: 0.4
+[14/10/2020 23:26:11]: RegisteredServers: 1
+[14/10/2020 23:26:13]: Average server load: 0.4
+[14/10/2020 23:26:13]: RegisteredServers: 1
+[14/10/2020 23:26:15]: Average server load: 0.4
+[14/10/2020 23:26:15]: RegisteredServers: 1
+[14/10/2020 23:26:17]: Average server load: 0.4
+[14/10/2020 23:26:17]: RegisteredServers: 1
+[14/10/2020 23:26:19]: Average server load: 0.4
+[14/10/2020 23:26:19]: RegisteredServers: 1
+[14/10/2020 23:26:21]: Average server load: 0.4
+[14/10/2020 23:26:21]: RegisteredServers: 1
+[14/10/2020 23:26:23]: Average server load: 0.4
+[14/10/2020 23:26:23]: RegisteredServers: 1
+[14/10/2020 23:26:25]: Average server load: 0.4
+[14/10/2020 23:26:25]: RegisteredServers: 1
+[14/10/2020 23:26:27]: Average server load: 0.4
+[14/10/2020 23:26:27]: RegisteredServers: 1
+[14/10/2020 23:26:29]: Average server load: 0.4
+[14/10/2020 23:26:29]: RegisteredServers: 1
+[14/10/2020 23:26:31]: Average server load: 0.4
+[14/10/2020 23:26:31]: RegisteredServers: 1
+[14/10/2020 23:26:33]: Average server load: 0.4
+[14/10/2020 23:26:33]: RegisteredServers: 1
+[14/10/2020 23:26:35]: Average server load: 0.4
+[14/10/2020 23:26:35]: RegisteredServers: 1
+[14/10/2020 23:26:37]: Average server load: 0.4
+[14/10/2020 23:26:37]: RegisteredServers: 1
+[14/10/2020 23:26:39]: Average server load: 0.4
+[14/10/2020 23:26:39]: RegisteredServers: 1
+[14/10/2020 23:26:41]: Average server load: 0.4
+[14/10/2020 23:26:41]: RegisteredServers: 1
+[14/10/2020 23:26:43]: Average server load: 0.4
+[14/10/2020 23:26:43]: RegisteredServers: 1
+[14/10/2020 23:26:45]: Average server load: 0.4
+[14/10/2020 23:26:45]: RegisteredServers: 1
+[14/10/2020 23:26:47]: Average server load: 0.4
+[14/10/2020 23:26:47]: RegisteredServers: 1
+[14/10/2020 23:26:49]: Average server load: 0.4
+[14/10/2020 23:26:49]: RegisteredServers: 1
+[14/10/2020 23:26:51]: Average server load: 0.4
+[14/10/2020 23:26:51]: RegisteredServers: 1
+[14/10/2020 23:26:53]: Average server load: 0.4
+[14/10/2020 23:26:53]: RegisteredServers: 1
+[14/10/2020 23:26:55]: Average server load: 0.4
+[14/10/2020 23:26:55]: RegisteredServers: 1
+[14/10/2020 23:26:57]: Average server load: 0.4
+[14/10/2020 23:26:57]: RegisteredServers: 1
+[14/10/2020 23:26:59]: Average server load: 0.4
+[14/10/2020 23:26:59]: RegisteredServers: 1
+[14/10/2020 23:27:01]: Average server load: 0.4
+[14/10/2020 23:27:01]: RegisteredServers: 1
+[14/10/2020 23:27:03]: Average server load: 0.4
+[14/10/2020 23:27:03]: RegisteredServers: 1
+[14/10/2020 23:27:05]: Average server load: 0.4
+[14/10/2020 23:27:05]: RegisteredServers: 1
+[14/10/2020 23:27:07]: Average server load: 0.4
+[14/10/2020 23:27:07]: RegisteredServers: 1
+[14/10/2020 23:27:09]: Average server load: 0.4
+[14/10/2020 23:27:09]: RegisteredServers: 1
+[14/10/2020 23:27:11]: Average server load: 0.4
+[14/10/2020 23:27:11]: RegisteredServers: 1
+[14/10/2020 23:27:13]: Average server load: 0.4
+[14/10/2020 23:27:13]: RegisteredServers: 1
+[14/10/2020 23:27:15]: Average server load: 0.4
+[14/10/2020 23:27:15]: RegisteredServers: 1
+[14/10/2020 23:27:17]: Average server load: 0.4
+[14/10/2020 23:27:17]: RegisteredServers: 1
+[14/10/2020 23:27:19]: Average server load: 0.4
+[14/10/2020 23:27:19]: RegisteredServers: 1
+[14/10/2020 23:27:21]: Average server load: 0.4
+[14/10/2020 23:27:21]: RegisteredServers: 1
+[14/10/2020 23:27:23]: Average server load: 0.4
+[14/10/2020 23:27:23]: RegisteredServers: 1
+[14/10/2020 23:27:25]: Average server load: 0.4
+[14/10/2020 23:27:25]: RegisteredServers: 1
+[14/10/2020 23:27:27]: Average server load: 0.4
+[14/10/2020 23:27:27]: RegisteredServers: 1
+[14/10/2020 23:27:29]: Average server load: 0.4
+[14/10/2020 23:27:29]: RegisteredServers: 1
+[14/10/2020 23:27:31]: Average server load: 0.4
+[14/10/2020 23:27:31]: RegisteredServers: 1
+[14/10/2020 23:27:33]: Average server load: 0.4
+[14/10/2020 23:27:33]: RegisteredServers: 1
+[14/10/2020 23:27:35]: Average server load: 0.4
+[14/10/2020 23:27:35]: RegisteredServers: 1
+[14/10/2020 23:27:37]: Average server load: 0.4
+[14/10/2020 23:27:37]: RegisteredServers: 1
+[14/10/2020 23:27:39]: Average server load: 0.4
+[14/10/2020 23:27:39]: RegisteredServers: 1
+[14/10/2020 23:27:41]: Average server load: 0.4
+[14/10/2020 23:27:41]: RegisteredServers: 1
+[14/10/2020 23:27:43]: Average server load: 0.4
+[14/10/2020 23:27:43]: RegisteredServers: 1
+[14/10/2020 23:27:45]: Average server load: 0.4
+[14/10/2020 23:27:45]: RegisteredServers: 1
+[14/10/2020 23:27:47]: Average server load: 0.4
+[14/10/2020 23:27:47]: RegisteredServers: 1
+[14/10/2020 23:27:49]: Average server load: 0.4
+[14/10/2020 23:27:49]: RegisteredServers: 1
+[14/10/2020 23:27:51]: Average server load: 0.4
+[14/10/2020 23:27:51]: RegisteredServers: 1
+[14/10/2020 23:27:53]: Average server load: 0.4
+[14/10/2020 23:27:53]: RegisteredServers: 1
+[14/10/2020 23:27:55]: Average server load: 0.4
+[14/10/2020 23:27:55]: RegisteredServers: 1
+[14/10/2020 23:27:57]: Average server load: 0.4
+[14/10/2020 23:27:57]: RegisteredServers: 1
+[14/10/2020 23:27:59]: Average server load: 0.4
+[14/10/2020 23:27:59]: RegisteredServers: 1
+[14/10/2020 23:28:01]: Average server load: 0.4
+[14/10/2020 23:28:01]: RegisteredServers: 1
+[14/10/2020 23:28:03]: Average server load: 0.4
+[14/10/2020 23:28:03]: RegisteredServers: 1
+[14/10/2020 23:28:05]: Average server load: 0.4
+[14/10/2020 23:28:05]: RegisteredServers: 1
+[14/10/2020 23:28:07]: Average server load: 0.4
+[14/10/2020 23:28:07]: RegisteredServers: 1
+[14/10/2020 23:28:09]: Average server load: 0.4
+[14/10/2020 23:28:09]: RegisteredServers: 1
+[14/10/2020 23:28:11]: Average server load: 0.4
+[14/10/2020 23:28:11]: RegisteredServers: 1
+[14/10/2020 23:28:13]: Average server load: 0.4
+[14/10/2020 23:28:13]: RegisteredServers: 1
+[14/10/2020 23:28:15]: Average server load: 0.4
+[14/10/2020 23:28:15]: RegisteredServers: 1
+[14/10/2020 23:28:17]: Average server load: 0.4
+[14/10/2020 23:28:17]: RegisteredServers: 1
+[14/10/2020 23:28:19]: Average server load: 0.4
+[14/10/2020 23:28:19]: RegisteredServers: 1
+[14/10/2020 23:28:21]: Average server load: 0.4
+[14/10/2020 23:28:21]: RegisteredServers: 1
+[14/10/2020 23:28:23]: Average server load: 0.4
+[14/10/2020 23:28:23]: RegisteredServers: 1
+[14/10/2020 23:28:25]: Average server load: 0.4
+[14/10/2020 23:28:25]: RegisteredServers: 1
+[14/10/2020 23:28:27]: Average server load: 0.4
+[14/10/2020 23:28:27]: RegisteredServers: 1
+[14/10/2020 23:28:29]: Average server load: 0.4
+[14/10/2020 23:28:29]: RegisteredServers: 1
+[14/10/2020 23:28:31]: Average server load: 0.4
+[14/10/2020 23:28:31]: RegisteredServers: 1
+[14/10/2020 23:28:33]: Average server load: 0.4
+[14/10/2020 23:28:33]: RegisteredServers: 1
+[14/10/2020 23:28:35]: Average server load: 0.4
+[14/10/2020 23:28:35]: RegisteredServers: 1
+[14/10/2020 23:28:37]: Average server load: 0.4
+[14/10/2020 23:28:37]: RegisteredServers: 1
+[14/10/2020 23:28:39]: Average server load: 0.4
+[14/10/2020 23:28:39]: RegisteredServers: 1
+[14/10/2020 23:28:41]: Average server load: 0.4
+[14/10/2020 23:28:41]: RegisteredServers: 1
+[14/10/2020 23:28:43]: Average server load: 0.4
+[14/10/2020 23:28:43]: RegisteredServers: 1
+[14/10/2020 23:28:45]: Average server load: 0.4
+[14/10/2020 23:28:45]: RegisteredServers: 1
+[14/10/2020 23:28:47]: Average server load: 0.4
+[14/10/2020 23:28:47]: RegisteredServers: 1
+[14/10/2020 23:28:49]: Average server load: 0.4
+[14/10/2020 23:28:49]: RegisteredServers: 1
+[14/10/2020 23:28:51]: Average server load: 0.4
+[14/10/2020 23:28:51]: RegisteredServers: 1
+[14/10/2020 23:28:53]: Average server load: 0.4
+[14/10/2020 23:28:53]: RegisteredServers: 1
+[14/10/2020 23:28:55]: Average server load: 0.4
+[14/10/2020 23:28:55]: RegisteredServers: 1
+[14/10/2020 23:28:57]: Average server load: 0.4
+[14/10/2020 23:28:57]: RegisteredServers: 1
+[14/10/2020 23:28:59]: Average server load: 0.4
+[14/10/2020 23:28:59]: RegisteredServers: 1
+[14/10/2020 23:29:01]: Average server load: 0.4
+[14/10/2020 23:29:01]: RegisteredServers: 1
+[14/10/2020 23:29:03]: Average server load: 0.4
+[14/10/2020 23:29:03]: RegisteredServers: 1
+[14/10/2020 23:29:05]: Average server load: 0.4
+[14/10/2020 23:29:05]: RegisteredServers: 1
+[14/10/2020 23:29:07]: Average server load: 0.4
+[14/10/2020 23:29:07]: RegisteredServers: 1
+[14/10/2020 23:29:09]: Average server load: 0.4
+[14/10/2020 23:29:09]: RegisteredServers: 1
+[14/10/2020 23:29:11]: Average server load: 0.4
+[14/10/2020 23:29:11]: RegisteredServers: 1
+[14/10/2020 23:29:13]: Average server load: 0.4
+[14/10/2020 23:29:13]: RegisteredServers: 1
+[14/10/2020 23:29:15]: Average server load: 0.4
+[14/10/2020 23:29:15]: RegisteredServers: 1
+[14/10/2020 23:29:17]: Average server load: 0.4
+[14/10/2020 23:29:17]: RegisteredServers: 1
+[14/10/2020 23:29:19]: Average server load: 0.4
+[14/10/2020 23:29:19]: RegisteredServers: 1
+[14/10/2020 23:29:21]: Average server load: 0.4
+[14/10/2020 23:29:21]: RegisteredServers: 1
+[14/10/2020 23:29:23]: Average server load: 0.4
+[14/10/2020 23:29:23]: RegisteredServers: 1
+[14/10/2020 23:29:25]: Average server load: 0.4
+[14/10/2020 23:29:25]: RegisteredServers: 1
+[14/10/2020 23:29:27]: Average server load: 0.4
+[14/10/2020 23:29:27]: RegisteredServers: 1
+[14/10/2020 23:29:29]: Average server load: 0.4
+[14/10/2020 23:29:29]: RegisteredServers: 1
+[14/10/2020 23:29:31]: Average server load: 0.4
+[14/10/2020 23:29:31]: RegisteredServers: 1
+[14/10/2020 23:29:33]: Average server load: 0.4
+[14/10/2020 23:29:33]: RegisteredServers: 1
+[14/10/2020 23:29:35]: Average server load: 0.4
+[14/10/2020 23:29:35]: RegisteredServers: 1
+[14/10/2020 23:29:37]: Average server load: 0.4
+[14/10/2020 23:29:37]: RegisteredServers: 1
+[14/10/2020 23:29:39]: Average server load: 0.4
+[14/10/2020 23:29:39]: RegisteredServers: 1
+[14/10/2020 23:29:41]: Average server load: 0.4
+[14/10/2020 23:29:41]: RegisteredServers: 1
+[14/10/2020 23:29:43]: Average server load: 0.4
+[14/10/2020 23:29:43]: RegisteredServers: 1
+[14/10/2020 23:29:45]: Average server load: 0.4
+[14/10/2020 23:29:45]: RegisteredServers: 1
+[14/10/2020 23:29:47]: Average server load: 0.4
+[14/10/2020 23:29:47]: RegisteredServers: 1
+[14/10/2020 23:29:49]: Average server load: 0.4
+[14/10/2020 23:29:49]: RegisteredServers: 1
+[14/10/2020 23:29:51]: Average server load: 0.4
+[14/10/2020 23:29:51]: RegisteredServers: 1
+[14/10/2020 23:29:53]: Average server load: 0.4
+[14/10/2020 23:29:53]: RegisteredServers: 1
+[14/10/2020 23:29:55]: Average server load: 0.4
+[14/10/2020 23:29:55]: RegisteredServers: 1
+[14/10/2020 23:29:57]: Average server load: 0.4
+[14/10/2020 23:29:57]: RegisteredServers: 1
+[14/10/2020 23:29:59]: Average server load: 0.4
+[14/10/2020 23:29:59]: RegisteredServers: 1
+[14/10/2020 23:30:01]: Average server load: 0.4
+[14/10/2020 23:30:01]: RegisteredServers: 1
+[14/10/2020 23:30:03]: Average server load: 0.4
+[14/10/2020 23:30:03]: RegisteredServers: 1
+[14/10/2020 23:30:05]: Average server load: 0.4
+[14/10/2020 23:30:05]: RegisteredServers: 1
+[14/10/2020 23:30:07]: Average server load: 0.4
+[14/10/2020 23:30:07]: RegisteredServers: 1
+[14/10/2020 23:30:09]: Average server load: 0.4
+[14/10/2020 23:30:09]: RegisteredServers: 1
+[14/10/2020 23:30:11]: Average server load: 0.4
+[14/10/2020 23:30:11]: RegisteredServers: 1
+[14/10/2020 23:30:13]: Average server load: 0.4
+[14/10/2020 23:30:13]: RegisteredServers: 1
+[14/10/2020 23:30:15]: Average server load: 0.4
+[14/10/2020 23:30:15]: RegisteredServers: 1
+[14/10/2020 23:30:17]: Average server load: 0.4
+[14/10/2020 23:30:17]: RegisteredServers: 1
+[14/10/2020 23:30:19]: Average server load: 0.4
+[14/10/2020 23:30:19]: RegisteredServers: 1
+[14/10/2020 23:30:21]: Average server load: 0.4
+[14/10/2020 23:30:21]: RegisteredServers: 1
+[14/10/2020 23:30:23]: Average server load: 0.4
+[14/10/2020 23:30:23]: RegisteredServers: 1
+[14/10/2020 23:30:25]: Average server load: 0.4
+[14/10/2020 23:30:25]: RegisteredServers: 1
+[14/10/2020 23:30:27]: Average server load: 0.4
+[14/10/2020 23:30:27]: RegisteredServers: 1
+[14/10/2020 23:30:29]: Average server load: 0.4
+[14/10/2020 23:30:29]: RegisteredServers: 1
+[14/10/2020 23:30:31]: Average server load: 0.4
+[14/10/2020 23:30:31]: RegisteredServers: 1
+[14/10/2020 23:30:33]: Average server load: 0.4
+[14/10/2020 23:30:33]: RegisteredServers: 1
+[14/10/2020 23:30:35]: Average server load: 0.4
+[14/10/2020 23:30:35]: RegisteredServers: 1
+[14/10/2020 23:30:37]: Average server load: 0.4
+[14/10/2020 23:30:37]: RegisteredServers: 1
+[14/10/2020 23:30:39]: Average server load: 0.4
+[14/10/2020 23:30:39]: RegisteredServers: 1
+[14/10/2020 23:30:41]: Average server load: 0.4
+[14/10/2020 23:30:41]: RegisteredServers: 1
+[14/10/2020 23:30:43]: Average server load: 0.4
+[14/10/2020 23:30:43]: RegisteredServers: 1
+[14/10/2020 23:30:45]: Average server load: 0.4
+[14/10/2020 23:30:45]: RegisteredServers: 1
+[14/10/2020 23:30:47]: Average server load: 0.4
+[14/10/2020 23:30:47]: RegisteredServers: 1
+[14/10/2020 23:30:49]: Average server load: 0.4
+[14/10/2020 23:30:49]: RegisteredServers: 1
+[14/10/2020 23:30:51]: Average server load: 0.4
+[14/10/2020 23:30:51]: RegisteredServers: 1
+[14/10/2020 23:30:53]: Average server load: 0.4
+[14/10/2020 23:30:53]: RegisteredServers: 1
+[14/10/2020 23:30:55]: Average server load: 0.4
+[14/10/2020 23:30:55]: RegisteredServers: 1
+[14/10/2020 23:30:57]: Average server load: 0.4
+[14/10/2020 23:30:57]: RegisteredServers: 1
+[14/10/2020 23:30:59]: Average server load: 0.4
+[14/10/2020 23:30:59]: RegisteredServers: 1
+[14/10/2020 23:31:01]: Average server load: 0.4
+[14/10/2020 23:31:01]: RegisteredServers: 1
+[14/10/2020 23:31:03]: Average server load: 0.4
+[14/10/2020 23:31:03]: RegisteredServers: 1
+[14/10/2020 23:31:05]: Average server load: 0.4
+[14/10/2020 23:31:05]: RegisteredServers: 1
+[14/10/2020 23:31:07]: Average server load: 0.4
+[14/10/2020 23:31:07]: RegisteredServers: 1
+[14/10/2020 23:31:09]: Average server load: 0.4
+[14/10/2020 23:31:09]: RegisteredServers: 1
+[14/10/2020 23:31:11]: Average server load: 0.4
+[14/10/2020 23:31:11]: RegisteredServers: 1
+[14/10/2020 23:31:13]: Average server load: 0.4
+[14/10/2020 23:31:13]: RegisteredServers: 1
+[14/10/2020 23:31:15]: Average server load: 0.4
+[14/10/2020 23:31:15]: RegisteredServers: 1
+[14/10/2020 23:31:17]: Average server load: 0.4
+[14/10/2020 23:31:17]: RegisteredServers: 1
+[14/10/2020 23:31:19]: Average server load: 0.4
+[14/10/2020 23:31:19]: RegisteredServers: 1
+[14/10/2020 23:31:21]: Average server load: 0.4
+[14/10/2020 23:31:21]: RegisteredServers: 1
+[14/10/2020 23:31:23]: Average server load: 0.4
+[14/10/2020 23:31:23]: RegisteredServers: 1
+[14/10/2020 23:31:25]: Average server load: 0.4
+[14/10/2020 23:31:25]: RegisteredServers: 1
+[14/10/2020 23:31:27]: Average server load: 0.4
+[14/10/2020 23:31:27]: RegisteredServers: 1
+[14/10/2020 23:31:29]: Average server load: 0.4
+[14/10/2020 23:31:29]: RegisteredServers: 1
+[14/10/2020 23:31:31]: Average server load: 0.4
+[14/10/2020 23:31:31]: RegisteredServers: 1
+[14/10/2020 23:31:33]: Average server load: 0.4
+[14/10/2020 23:31:33]: RegisteredServers: 1
+[14/10/2020 23:31:35]: Average server load: 0.4
+[14/10/2020 23:31:35]: RegisteredServers: 1
+[14/10/2020 23:31:37]: Average server load: 0.4
+[14/10/2020 23:31:37]: RegisteredServers: 1
+[14/10/2020 23:31:39]: Average server load: 0.4
+[14/10/2020 23:31:39]: RegisteredServers: 1
+[14/10/2020 23:31:41]: Average server load: 0.4
+[14/10/2020 23:31:41]: RegisteredServers: 1
+[14/10/2020 23:31:43]: Average server load: 0.4
+[14/10/2020 23:31:43]: RegisteredServers: 1
+[14/10/2020 23:31:45]: Average server load: 0.4
+[14/10/2020 23:31:45]: RegisteredServers: 1
+[14/10/2020 23:31:47]: Average server load: 0.4
+[14/10/2020 23:31:47]: RegisteredServers: 1
+[14/10/2020 23:31:49]: Average server load: 0.4
+[14/10/2020 23:31:49]: RegisteredServers: 1
+[14/10/2020 23:31:51]: Average server load: 0.4
+[14/10/2020 23:31:51]: RegisteredServers: 1
+[14/10/2020 23:31:53]: Average server load: 0.4
+[14/10/2020 23:31:53]: RegisteredServers: 1
+[14/10/2020 23:31:55]: Average server load: 0.4
+[14/10/2020 23:31:55]: RegisteredServers: 1
+[14/10/2020 23:31:57]: Average server load: 0.4
+[14/10/2020 23:31:57]: RegisteredServers: 1
+[14/10/2020 23:31:59]: Average server load: 0.4
+[14/10/2020 23:31:59]: RegisteredServers: 1
+[14/10/2020 23:32:01]: Average server load: 0.4
+[14/10/2020 23:32:01]: RegisteredServers: 1
+[14/10/2020 23:32:03]: Average server load: 0.4
+[14/10/2020 23:32:03]: RegisteredServers: 1
+[14/10/2020 23:32:05]: Average server load: 0.4
+[14/10/2020 23:32:05]: RegisteredServers: 1
+[14/10/2020 23:32:07]: Average server load: 0.4
+[14/10/2020 23:32:07]: RegisteredServers: 1
+[14/10/2020 23:32:09]: Average server load: 0.4
+[14/10/2020 23:32:09]: RegisteredServers: 1
+[14/10/2020 23:32:11]: Average server load: 0.4
+[14/10/2020 23:32:11]: RegisteredServers: 1
+[14/10/2020 23:32:13]: Average server load: 0.4
+[14/10/2020 23:32:13]: RegisteredServers: 1
+[14/10/2020 23:32:15]: Average server load: 0.4
+[14/10/2020 23:32:15]: RegisteredServers: 1
+[14/10/2020 23:32:17]: Average server load: 0.4
+[14/10/2020 23:32:17]: RegisteredServers: 1
+[14/10/2020 23:32:19]: Average server load: 0.4
+[14/10/2020 23:32:19]: RegisteredServers: 1
+[14/10/2020 23:32:21]: Average server load: 0.4
+[14/10/2020 23:32:21]: RegisteredServers: 1
+[14/10/2020 23:32:23]: Average server load: 0.4
+[14/10/2020 23:32:23]: RegisteredServers: 1
+[14/10/2020 23:32:25]: Average server load: 0.4
+[14/10/2020 23:32:25]: RegisteredServers: 1
+[14/10/2020 23:32:27]: Average server load: 0.4
+[14/10/2020 23:32:27]: RegisteredServers: 1
+[14/10/2020 23:32:29]: Average server load: 0.4
+[14/10/2020 23:32:29]: RegisteredServers: 1
+[14/10/2020 23:32:31]: Average server load: 0.4
+[14/10/2020 23:32:31]: RegisteredServers: 1
+[14/10/2020 23:32:33]: Average server load: 0.4
+[14/10/2020 23:32:33]: RegisteredServers: 1
+[14/10/2020 23:32:35]: Average server load: 0.4
+[14/10/2020 23:32:35]: RegisteredServers: 1
+[14/10/2020 23:32:37]: Average server load: 0.4
+[14/10/2020 23:32:37]: RegisteredServers: 1
+[14/10/2020 23:32:39]: Average server load: 0.4
+[14/10/2020 23:32:39]: RegisteredServers: 1
+[14/10/2020 23:32:41]: Average server load: 0.4
+[14/10/2020 23:32:41]: RegisteredServers: 1
+[14/10/2020 23:32:43]: Average server load: 0.4
+[14/10/2020 23:32:43]: RegisteredServers: 1
+[14/10/2020 23:32:45]: Average server load: 0.4
+[14/10/2020 23:32:45]: RegisteredServers: 1
+[14/10/2020 23:32:47]: Average server load: 0.4
+[14/10/2020 23:32:47]: RegisteredServers: 1
+[14/10/2020 23:32:49]: Average server load: 0.4
+[14/10/2020 23:32:49]: RegisteredServers: 1
+[14/10/2020 23:32:51]: Average server load: 0.4
+[14/10/2020 23:32:51]: RegisteredServers: 1
+[14/10/2020 23:32:53]: Average server load: 0.4
+[14/10/2020 23:32:53]: RegisteredServers: 1
+[14/10/2020 23:32:55]: Average server load: 0.4
+[14/10/2020 23:32:55]: RegisteredServers: 1
+[14/10/2020 23:32:57]: Average server load: 0.4
+[14/10/2020 23:32:57]: RegisteredServers: 1
+[14/10/2020 23:32:59]: Average server load: 0.4
+[14/10/2020 23:32:59]: RegisteredServers: 1
+[14/10/2020 23:33:01]: Average server load: 0.4
+[14/10/2020 23:33:01]: RegisteredServers: 1
+[14/10/2020 23:33:03]: Average server load: 0.4
+[14/10/2020 23:33:03]: RegisteredServers: 1
+[14/10/2020 23:33:05]: Average server load: 0.4
+[14/10/2020 23:33:05]: RegisteredServers: 1
+[14/10/2020 23:33:07]: Average server load: 0.4
+[14/10/2020 23:33:07]: RegisteredServers: 1
+[14/10/2020 23:33:09]: Average server load: 0.4
+[14/10/2020 23:33:09]: RegisteredServers: 1
+[14/10/2020 23:33:11]: Average server load: 0.4
+[14/10/2020 23:33:11]: RegisteredServers: 1
+[14/10/2020 23:33:13]: Average server load: 0.4
+[14/10/2020 23:33:13]: RegisteredServers: 1
+[14/10/2020 23:33:15]: Average server load: 0.4
+[14/10/2020 23:33:15]: RegisteredServers: 1
+[14/10/2020 23:33:17]: Average server load: 0.4
+[14/10/2020 23:33:17]: RegisteredServers: 1
+[14/10/2020 23:33:19]: Average server load: 0.4
+[14/10/2020 23:33:19]: RegisteredServers: 1
+[14/10/2020 23:33:21]: Average server load: 0.4
+[14/10/2020 23:33:21]: RegisteredServers: 1
+[14/10/2020 23:33:23]: Average server load: 0.4
+[14/10/2020 23:33:23]: RegisteredServers: 1
+[14/10/2020 23:33:25]: Average server load: 0.4
+[14/10/2020 23:33:25]: RegisteredServers: 1
+[14/10/2020 23:33:27]: Average server load: 0.4
+[14/10/2020 23:33:27]: RegisteredServers: 1
+[14/10/2020 23:33:29]: Average server load: 0.4
+[14/10/2020 23:33:29]: RegisteredServers: 1
+[14/10/2020 23:33:31]: Average server load: 0.4
+[14/10/2020 23:33:31]: RegisteredServers: 1
+[14/10/2020 23:33:33]: Average server load: 0.4
+[14/10/2020 23:33:33]: RegisteredServers: 1
+[14/10/2020 23:33:35]: Average server load: 0.4
+[14/10/2020 23:33:35]: RegisteredServers: 1
+[14/10/2020 23:33:37]: Average server load: 0.4
+[14/10/2020 23:33:37]: RegisteredServers: 1
+[14/10/2020 23:33:39]: Average server load: 0.4
+[14/10/2020 23:33:39]: RegisteredServers: 1
+[14/10/2020 23:33:41]: Average server load: 0.4
+[14/10/2020 23:33:41]: RegisteredServers: 1
+[14/10/2020 23:33:43]: Average server load: 0.4
+[14/10/2020 23:33:43]: RegisteredServers: 1
+[14/10/2020 23:33:45]: Average server load: 0.4
+[14/10/2020 23:33:45]: RegisteredServers: 1
+[14/10/2020 23:33:47]: Average server load: 0.4
+[14/10/2020 23:33:47]: RegisteredServers: 1
+[14/10/2020 23:33:49]: Average server load: 0.4
+[14/10/2020 23:33:49]: RegisteredServers: 1
+[14/10/2020 23:33:51]: Average server load: 0.4
+[14/10/2020 23:33:51]: RegisteredServers: 1
+[14/10/2020 23:33:53]: Average server load: 0.4
+[14/10/2020 23:33:53]: RegisteredServers: 1
+[14/10/2020 23:33:55]: Average server load: 0.4
+[14/10/2020 23:33:55]: RegisteredServers: 1
+[14/10/2020 23:33:57]: Average server load: 0.4
+[14/10/2020 23:33:57]: RegisteredServers: 1
+[14/10/2020 23:33:59]: Average server load: 0.4
+[14/10/2020 23:33:59]: RegisteredServers: 1
+[14/10/2020 23:34:01]: Average server load: 0.4
+[14/10/2020 23:34:01]: RegisteredServers: 1
+[14/10/2020 23:34:03]: Average server load: 0.4
+[14/10/2020 23:34:03]: RegisteredServers: 1
+[14/10/2020 23:34:05]: Average server load: 0.4
+[14/10/2020 23:34:05]: RegisteredServers: 1
+[14/10/2020 23:34:07]: Average server load: 0.4
+[14/10/2020 23:34:07]: RegisteredServers: 1
+[14/10/2020 23:34:09]: Average server load: 0.4
+[14/10/2020 23:34:09]: RegisteredServers: 1
+[14/10/2020 23:34:11]: Average server load: 0.4
+[14/10/2020 23:34:11]: RegisteredServers: 1
+[14/10/2020 23:34:13]: Average server load: 0.4
+[14/10/2020 23:34:13]: RegisteredServers: 1
+[14/10/2020 23:34:15]: Average server load: 0.4
+[14/10/2020 23:34:15]: RegisteredServers: 1
+[14/10/2020 23:34:17]: Average server load: 0.4
+[14/10/2020 23:34:17]: RegisteredServers: 1
+[14/10/2020 23:34:19]: Average server load: 0.4
+[14/10/2020 23:34:19]: RegisteredServers: 1
+[14/10/2020 23:34:21]: Average server load: 0.4
+[14/10/2020 23:34:21]: RegisteredServers: 1
+[14/10/2020 23:34:23]: Average server load: 0.4
+[14/10/2020 23:34:23]: RegisteredServers: 1
+[14/10/2020 23:34:25]: Average server load: 0.4
+[14/10/2020 23:34:25]: RegisteredServers: 1
+[14/10/2020 23:34:27]: Average server load: 0.4
+[14/10/2020 23:34:27]: RegisteredServers: 1
+[14/10/2020 23:34:29]: Average server load: 0.4
+[14/10/2020 23:34:29]: RegisteredServers: 1
+[14/10/2020 23:34:31]: Average server load: 0.4
+[14/10/2020 23:34:31]: RegisteredServers: 1
+[14/10/2020 23:34:33]: Average server load: 0.4
+[14/10/2020 23:34:33]: RegisteredServers: 1
+[14/10/2020 23:34:35]: Average server load: 0.4
+[14/10/2020 23:34:35]: RegisteredServers: 1
+[14/10/2020 23:34:37]: Average server load: 0.4
+[14/10/2020 23:34:37]: RegisteredServers: 1
+[14/10/2020 23:34:39]: Average server load: 0.4
+[14/10/2020 23:34:39]: RegisteredServers: 1
+[14/10/2020 23:34:41]: Average server load: 0.4
+[14/10/2020 23:34:41]: RegisteredServers: 1
+[14/10/2020 23:34:43]: Average server load: 0.4
+[14/10/2020 23:34:43]: RegisteredServers: 1
+[14/10/2020 23:34:45]: Average server load: 0.4
+[14/10/2020 23:34:45]: RegisteredServers: 1
+[14/10/2020 23:34:47]: Average server load: 0.4
+[14/10/2020 23:34:47]: RegisteredServers: 1
+[14/10/2020 23:34:49]: Average server load: 0.4
+[14/10/2020 23:34:49]: RegisteredServers: 1
+[14/10/2020 23:34:51]: Average server load: 0.4
+[14/10/2020 23:34:51]: RegisteredServers: 1
+[14/10/2020 23:34:53]: Average server load: 0.4
+[14/10/2020 23:34:53]: RegisteredServers: 1
+[14/10/2020 23:34:55]: Average server load: 0.4
+[14/10/2020 23:34:55]: RegisteredServers: 1
+[14/10/2020 23:34:57]: Average server load: 0.4
+[14/10/2020 23:34:57]: RegisteredServers: 1
+[14/10/2020 23:34:59]: Average server load: 0.4
+[14/10/2020 23:34:59]: RegisteredServers: 1
+[14/10/2020 23:35:01]: Average server load: 0.4
+[14/10/2020 23:35:01]: RegisteredServers: 1
+[14/10/2020 23:35:03]: Average server load: 0.4
+[14/10/2020 23:35:03]: RegisteredServers: 1
+[14/10/2020 23:35:05]: Average server load: 0.4
+[14/10/2020 23:35:05]: RegisteredServers: 1
+[14/10/2020 23:35:07]: Average server load: 0.4
+[14/10/2020 23:35:07]: RegisteredServers: 1
+[14/10/2020 23:35:09]: Average server load: 0.4
+[14/10/2020 23:35:09]: RegisteredServers: 1
+[14/10/2020 23:35:11]: Average server load: 0.4
+[14/10/2020 23:35:11]: RegisteredServers: 1
+[14/10/2020 23:35:13]: Average server load: 0.4
+[14/10/2020 23:35:13]: RegisteredServers: 1
+[14/10/2020 23:35:15]: Average server load: 0.4
+[14/10/2020 23:35:15]: RegisteredServers: 1
+[14/10/2020 23:35:17]: Average server load: 0.4
+[14/10/2020 23:35:17]: RegisteredServers: 1
+[14/10/2020 23:35:19]: Average server load: 0.4
+[14/10/2020 23:35:19]: RegisteredServers: 1
+[14/10/2020 23:35:21]: Average server load: 0.4
+[14/10/2020 23:35:21]: RegisteredServers: 1
+[14/10/2020 23:35:23]: Average server load: 0.4
+[14/10/2020 23:35:23]: RegisteredServers: 1
+[14/10/2020 23:35:25]: Average server load: 0.4
+[14/10/2020 23:35:25]: RegisteredServers: 1
+[14/10/2020 23:35:27]: Average server load: 0.4
+[14/10/2020 23:35:27]: RegisteredServers: 1
+[14/10/2020 23:35:29]: Average server load: 0.4
+[14/10/2020 23:35:29]: RegisteredServers: 1
+[14/10/2020 23:35:31]: Average server load: 0.4
+[14/10/2020 23:35:31]: RegisteredServers: 1
+[14/10/2020 23:35:33]: Average server load: 0.4
+[14/10/2020 23:35:33]: RegisteredServers: 1
+[14/10/2020 23:35:35]: Average server load: 0.4
+[14/10/2020 23:35:35]: RegisteredServers: 1
+[14/10/2020 23:35:37]: Average server load: 0.4
+[14/10/2020 23:35:37]: RegisteredServers: 1
+[14/10/2020 23:35:39]: Average server load: 0.4
+[14/10/2020 23:35:39]: RegisteredServers: 1
+[14/10/2020 23:35:41]: Average server load: 0.4
+[14/10/2020 23:35:41]: RegisteredServers: 1
+[14/10/2020 23:35:43]: Average server load: 0.4
+[14/10/2020 23:35:43]: RegisteredServers: 1
+[14/10/2020 23:35:45]: Average server load: 0.4
+[14/10/2020 23:35:45]: RegisteredServers: 1
+[14/10/2020 23:35:47]: Average server load: 0.4
+[14/10/2020 23:35:47]: RegisteredServers: 1
+[14/10/2020 23:35:49]: Average server load: 0.4
+[14/10/2020 23:35:49]: RegisteredServers: 1
+[14/10/2020 23:35:51]: Average server load: 0.4
+[14/10/2020 23:35:51]: RegisteredServers: 1
+[14/10/2020 23:35:53]: Average server load: 0.4
+[14/10/2020 23:35:53]: RegisteredServers: 1
+[14/10/2020 23:35:55]: Average server load: 0.4
+[14/10/2020 23:35:55]: RegisteredServers: 1
+[14/10/2020 23:35:57]: Average server load: 0.4
+[14/10/2020 23:35:57]: RegisteredServers: 1
+[14/10/2020 23:35:59]: Average server load: 0.4
+[14/10/2020 23:35:59]: RegisteredServers: 1
+[14/10/2020 23:36:01]: Average server load: 0.4
+[14/10/2020 23:36:01]: RegisteredServers: 1
+[14/10/2020 23:36:03]: Average server load: 0.4
+[14/10/2020 23:36:03]: RegisteredServers: 1
+[14/10/2020 23:36:05]: Average server load: 0.4
+[14/10/2020 23:36:05]: RegisteredServers: 1
+[14/10/2020 23:36:07]: Average server load: 0.4
+[14/10/2020 23:36:07]: RegisteredServers: 1
+[14/10/2020 23:36:09]: Average server load: 0.4
+[14/10/2020 23:36:09]: RegisteredServers: 1
+[14/10/2020 23:36:11]: Average server load: 0.4
+[14/10/2020 23:36:11]: RegisteredServers: 1
+[14/10/2020 23:36:13]: Average server load: 0.4
+[14/10/2020 23:36:13]: RegisteredServers: 1
+[14/10/2020 23:36:15]: Average server load: 0.4
+[14/10/2020 23:36:15]: RegisteredServers: 1
+[14/10/2020 23:36:17]: Average server load: 0.4
+[14/10/2020 23:36:17]: RegisteredServers: 1
+[14/10/2020 23:36:19]: Average server load: 0.4
+[14/10/2020 23:36:19]: RegisteredServers: 1
+[14/10/2020 23:36:21]: Average server load: 0.4
+[14/10/2020 23:36:21]: RegisteredServers: 1
+[14/10/2020 23:36:23]: Average server load: 0.4
+[14/10/2020 23:36:23]: RegisteredServers: 1
+[14/10/2020 23:36:25]: Average server load: 0.4
+[14/10/2020 23:36:25]: RegisteredServers: 1
+[14/10/2020 23:36:27]: Average server load: 0.4
+[14/10/2020 23:36:27]: RegisteredServers: 1
+[14/10/2020 23:36:29]: Average server load: 0.4
+[14/10/2020 23:36:29]: RegisteredServers: 1
+[14/10/2020 23:36:31]: Average server load: 0.4
+[14/10/2020 23:36:31]: RegisteredServers: 1
+[14/10/2020 23:36:33]: Average server load: 0.4
+[14/10/2020 23:36:33]: RegisteredServers: 1
+[14/10/2020 23:36:35]: Average server load: 0.4
+[14/10/2020 23:36:35]: RegisteredServers: 1
+[14/10/2020 23:36:37]: Average server load: 0.4
+[14/10/2020 23:36:37]: RegisteredServers: 1
+[14/10/2020 23:36:39]: Average server load: 0.4
+[14/10/2020 23:36:39]: RegisteredServers: 1
+[14/10/2020 23:36:41]: Average server load: 0.4
+[14/10/2020 23:36:41]: RegisteredServers: 1
+[14/10/2020 23:36:43]: Average server load: 0.4
+[14/10/2020 23:36:43]: RegisteredServers: 1
+[14/10/2020 23:36:45]: Average server load: 0.4
+[14/10/2020 23:36:45]: RegisteredServers: 1
+[14/10/2020 23:36:47]: Average server load: 0.4
+[14/10/2020 23:36:47]: RegisteredServers: 1
+[14/10/2020 23:36:49]: Average server load: 0.4
+[14/10/2020 23:36:49]: RegisteredServers: 1
+[14/10/2020 23:36:51]: Average server load: 0.4
+[14/10/2020 23:36:51]: RegisteredServers: 1
+[14/10/2020 23:36:53]: Average server load: 0.4
+[14/10/2020 23:36:53]: RegisteredServers: 1
+[14/10/2020 23:36:55]: Average server load: 0.4
+[14/10/2020 23:36:55]: RegisteredServers: 1
+[14/10/2020 23:36:57]: Average server load: 0.4
+[14/10/2020 23:36:57]: RegisteredServers: 1
+[14/10/2020 23:36:59]: Average server load: 0.4
+[14/10/2020 23:36:59]: RegisteredServers: 1
+[14/10/2020 23:37:01]: Average server load: 0.4
+[14/10/2020 23:37:01]: RegisteredServers: 1
+[14/10/2020 23:37:03]: Average server load: 0.4
+[14/10/2020 23:37:03]: RegisteredServers: 1
+[14/10/2020 23:37:05]: Average server load: 0.4
+[14/10/2020 23:37:05]: RegisteredServers: 1
+[14/10/2020 23:37:07]: Average server load: 0.4
+[14/10/2020 23:37:07]: RegisteredServers: 1
+[14/10/2020 23:37:09]: Average server load: 0.4
+[14/10/2020 23:37:09]: RegisteredServers: 1
+[14/10/2020 23:37:11]: Average server load: 0.4
+[14/10/2020 23:37:11]: RegisteredServers: 1
+[14/10/2020 23:37:13]: Average server load: 0.4
+[14/10/2020 23:37:13]: RegisteredServers: 1
+[14/10/2020 23:37:15]: Average server load: 0.4
+[14/10/2020 23:37:15]: RegisteredServers: 1
+[14/10/2020 23:37:17]: Average server load: 0.4
+[14/10/2020 23:37:17]: RegisteredServers: 1
+[14/10/2020 23:37:19]: Average server load: 0.4
+[14/10/2020 23:37:19]: RegisteredServers: 1
+[14/10/2020 23:37:21]: Average server load: 0.4
+[14/10/2020 23:37:21]: RegisteredServers: 1
+[14/10/2020 23:37:23]: Average server load: 0.4
+[14/10/2020 23:37:23]: RegisteredServers: 1
+[14/10/2020 23:37:25]: Average server load: 0.4
+[14/10/2020 23:37:25]: RegisteredServers: 1
+[14/10/2020 23:37:27]: Average server load: 0.4
+[14/10/2020 23:37:27]: RegisteredServers: 1
+[14/10/2020 23:37:29]: Average server load: 0.4
+[14/10/2020 23:37:29]: RegisteredServers: 1
+[14/10/2020 23:37:31]: Average server load: 0.4
+[14/10/2020 23:37:31]: RegisteredServers: 1
+[14/10/2020 23:37:33]: Average server load: 0.4
+[14/10/2020 23:37:33]: RegisteredServers: 1
+[14/10/2020 23:37:35]: Average server load: 0.4
+[14/10/2020 23:37:35]: RegisteredServers: 1
+[14/10/2020 23:37:37]: Average server load: 0.4
+[14/10/2020 23:37:37]: RegisteredServers: 1
+[14/10/2020 23:37:39]: Average server load: 0.4
+[14/10/2020 23:37:39]: RegisteredServers: 1
+[14/10/2020 23:37:41]: Average server load: 0.4
+[14/10/2020 23:37:41]: RegisteredServers: 1
+[14/10/2020 23:37:43]: Average server load: 0.4
+[14/10/2020 23:37:43]: RegisteredServers: 1
+[14/10/2020 23:37:45]: Average server load: 0.4
+[14/10/2020 23:37:45]: RegisteredServers: 1
+[14/10/2020 23:37:47]: Average server load: 0.4
+[14/10/2020 23:37:47]: RegisteredServers: 1
+[14/10/2020 23:37:49]: Average server load: 0.4
+[14/10/2020 23:37:49]: RegisteredServers: 1
+[14/10/2020 23:37:51]: Average server load: 0.4
+[14/10/2020 23:37:51]: RegisteredServers: 1
+[14/10/2020 23:37:53]: Average server load: 0.4
+[14/10/2020 23:37:53]: RegisteredServers: 1
+[14/10/2020 23:37:55]: Average server load: 0.4
+[14/10/2020 23:37:55]: RegisteredServers: 1
+[14/10/2020 23:37:57]: Average server load: 0.4
+[14/10/2020 23:37:57]: RegisteredServers: 1
+[14/10/2020 23:37:59]: Average server load: 0.4
+[14/10/2020 23:37:59]: RegisteredServers: 1
+[14/10/2020 23:38:01]: Average server load: 0.4
+[14/10/2020 23:38:01]: RegisteredServers: 1
+[14/10/2020 23:38:03]: Average server load: 0.4
+[14/10/2020 23:38:03]: RegisteredServers: 1
+[14/10/2020 23:38:05]: Average server load: 0.4
+[14/10/2020 23:38:05]: RegisteredServers: 1
+[14/10/2020 23:38:07]: Average server load: 0.4
+[14/10/2020 23:38:07]: RegisteredServers: 1
+[14/10/2020 23:38:09]: Average server load: 0.4
+[14/10/2020 23:38:09]: RegisteredServers: 1
+[14/10/2020 23:38:11]: Average server load: 0.4
+[14/10/2020 23:38:11]: RegisteredServers: 1
+[14/10/2020 23:38:13]: Average server load: 0.4
+[14/10/2020 23:38:13]: RegisteredServers: 1
+[14/10/2020 23:38:15]: Average server load: 0.4
+[14/10/2020 23:38:15]: RegisteredServers: 1
+[14/10/2020 23:38:17]: Average server load: 0.4
+[14/10/2020 23:38:17]: RegisteredServers: 1
+[14/10/2020 23:38:19]: Average server load: 0.4
+[14/10/2020 23:38:19]: RegisteredServers: 1
+[14/10/2020 23:38:21]: Average server load: 0.4
+[14/10/2020 23:38:21]: RegisteredServers: 1
+[14/10/2020 23:38:23]: Average server load: 0.4
+[14/10/2020 23:38:23]: RegisteredServers: 1
+[14/10/2020 23:38:25]: Average server load: 0.4
+[14/10/2020 23:38:25]: RegisteredServers: 1
+[14/10/2020 23:38:27]: Average server load: 0.4
+[14/10/2020 23:38:27]: RegisteredServers: 1
+[14/10/2020 23:38:29]: Average server load: 0.4
+[14/10/2020 23:38:29]: RegisteredServers: 1
+[14/10/2020 23:38:31]: Average server load: 0.4
+[14/10/2020 23:38:31]: RegisteredServers: 1
+[14/10/2020 23:38:33]: Average server load: 0.4
+[14/10/2020 23:38:33]: RegisteredServers: 1
+[14/10/2020 23:38:35]: Average server load: 0.4
+[14/10/2020 23:38:35]: RegisteredServers: 1
+[14/10/2020 23:38:37]: Average server load: 0.4
+[14/10/2020 23:38:37]: RegisteredServers: 1
+[14/10/2020 23:38:39]: Average server load: 0.4
+[14/10/2020 23:38:39]: RegisteredServers: 1
+[14/10/2020 23:38:41]: Average server load: 0.4
+[14/10/2020 23:38:41]: RegisteredServers: 1
+[14/10/2020 23:38:43]: Average server load: 0.4
+[14/10/2020 23:38:43]: RegisteredServers: 1
+[14/10/2020 23:38:45]: Average server load: 0.4
+[14/10/2020 23:38:45]: RegisteredServers: 1
+[14/10/2020 23:38:47]: Average server load: 0.4
+[14/10/2020 23:38:47]: RegisteredServers: 1
+[14/10/2020 23:38:49]: Average server load: 0.4
+[14/10/2020 23:38:49]: RegisteredServers: 1
+[14/10/2020 23:38:51]: Average server load: 0.4
+[14/10/2020 23:38:51]: RegisteredServers: 1
+[14/10/2020 23:38:53]: Average server load: 0.4
+[14/10/2020 23:38:53]: RegisteredServers: 1
+[14/10/2020 23:38:55]: Average server load: 0.4
+[14/10/2020 23:38:55]: RegisteredServers: 1
+[14/10/2020 23:38:57]: Average server load: 0.4
+[14/10/2020 23:38:57]: RegisteredServers: 1
+[14/10/2020 23:38:59]: Average server load: 0.4
+[14/10/2020 23:38:59]: RegisteredServers: 1
+[14/10/2020 23:39:01]: Average server load: 0.4
+[14/10/2020 23:39:01]: RegisteredServers: 1
+[14/10/2020 23:39:03]: Average server load: 0.4
+[14/10/2020 23:39:03]: RegisteredServers: 1
+[14/10/2020 23:39:05]: Average server load: 0.4
+[14/10/2020 23:39:05]: RegisteredServers: 1
+[14/10/2020 23:39:07]: Average server load: 0.4
+[14/10/2020 23:39:07]: RegisteredServers: 1
+[14/10/2020 23:39:09]: Average server load: 0.4
+[14/10/2020 23:39:09]: RegisteredServers: 1
+[14/10/2020 23:39:11]: Average server load: 0.4
+[14/10/2020 23:39:11]: RegisteredServers: 1
+[14/10/2020 23:39:13]: Average server load: 0.4
+[14/10/2020 23:39:13]: RegisteredServers: 1
+[14/10/2020 23:39:15]: Average server load: 0.4
+[14/10/2020 23:39:15]: RegisteredServers: 1
+[14/10/2020 23:39:17]: Average server load: 0.4
+[14/10/2020 23:39:17]: RegisteredServers: 1
+[14/10/2020 23:39:19]: Average server load: 0.4
+[14/10/2020 23:39:19]: RegisteredServers: 1
+[14/10/2020 23:39:21]: Average server load: 0.4
+[14/10/2020 23:39:21]: RegisteredServers: 1
+[14/10/2020 23:39:23]: Average server load: 0.4
+[14/10/2020 23:39:23]: RegisteredServers: 1
+[14/10/2020 23:39:25]: Average server load: 0.4
+[14/10/2020 23:39:25]: RegisteredServers: 1
+[14/10/2020 23:39:27]: Average server load: 0.4
+[14/10/2020 23:39:27]: RegisteredServers: 1
+[14/10/2020 23:39:29]: Average server load: 0.4
+[14/10/2020 23:39:29]: RegisteredServers: 1
+[14/10/2020 23:39:31]: Average server load: 0.4
+[14/10/2020 23:39:31]: RegisteredServers: 1
+[14/10/2020 23:39:33]: Average server load: 0.4
+[14/10/2020 23:39:33]: RegisteredServers: 1
+[14/10/2020 23:39:35]: Average server load: 0.4
+[14/10/2020 23:39:35]: RegisteredServers: 1
+[14/10/2020 23:39:37]: Average server load: 0.4
+[14/10/2020 23:39:37]: RegisteredServers: 1
+[14/10/2020 23:39:39]: Average server load: 0.4
+[14/10/2020 23:39:39]: RegisteredServers: 1
+[14/10/2020 23:39:41]: Average server load: 0.4
+[14/10/2020 23:39:41]: RegisteredServers: 1
+[14/10/2020 23:39:43]: Average server load: 0.4
+[14/10/2020 23:39:43]: RegisteredServers: 1
+[14/10/2020 23:39:45]: Average server load: 0.4
+[14/10/2020 23:39:45]: RegisteredServers: 1
+[14/10/2020 23:39:47]: Average server load: 0.4
+[14/10/2020 23:39:47]: RegisteredServers: 1
+[14/10/2020 23:39:49]: Average server load: 0.4
+[14/10/2020 23:39:49]: RegisteredServers: 1
+[14/10/2020 23:39:51]: Average server load: 0.4
+[14/10/2020 23:39:51]: RegisteredServers: 1
+[14/10/2020 23:39:53]: Average server load: 0.4
+[14/10/2020 23:39:53]: RegisteredServers: 1
+[14/10/2020 23:39:55]: Average server load: 0.4
+[14/10/2020 23:39:55]: RegisteredServers: 1
+[14/10/2020 23:39:57]: Average server load: 0.4
+[14/10/2020 23:39:57]: RegisteredServers: 1
+[14/10/2020 23:39:59]: Average server load: 0.4
+[14/10/2020 23:39:59]: RegisteredServers: 1
+[14/10/2020 23:40:01]: Average server load: 0.4
+[14/10/2020 23:40:01]: RegisteredServers: 1
+[14/10/2020 23:40:03]: Average server load: 0.4
+[14/10/2020 23:40:03]: RegisteredServers: 1
+[14/10/2020 23:40:05]: Average server load: 0.4
+[14/10/2020 23:40:05]: RegisteredServers: 1
+[14/10/2020 23:40:07]: Average server load: 0.4
+[14/10/2020 23:40:07]: RegisteredServers: 1
+[14/10/2020 23:40:09]: Average server load: 0.4
+[14/10/2020 23:40:09]: RegisteredServers: 1
+[14/10/2020 23:40:11]: Average server load: 0.4
+[14/10/2020 23:40:11]: RegisteredServers: 1
+[14/10/2020 23:40:13]: Average server load: 0.4
+[14/10/2020 23:40:13]: RegisteredServers: 1
+[14/10/2020 23:40:15]: Average server load: 0.4
+[14/10/2020 23:40:15]: RegisteredServers: 1
+[14/10/2020 23:40:17]: Average server load: 0.4
+[14/10/2020 23:40:17]: RegisteredServers: 1
+[14/10/2020 23:40:19]: Average server load: 0.4
+[14/10/2020 23:40:19]: RegisteredServers: 1
+[14/10/2020 23:40:21]: Average server load: 0.4
+[14/10/2020 23:40:21]: RegisteredServers: 1
+[14/10/2020 23:40:23]: Average server load: 0.4
+[14/10/2020 23:40:23]: RegisteredServers: 1
+[14/10/2020 23:40:25]: Average server load: 0.4
+[14/10/2020 23:40:25]: RegisteredServers: 1
+[14/10/2020 23:40:27]: Average server load: 0.4
+[14/10/2020 23:40:27]: RegisteredServers: 1
+[14/10/2020 23:40:29]: Average server load: 0.4
+[14/10/2020 23:40:29]: RegisteredServers: 1
+[14/10/2020 23:40:31]: Average server load: 0.4
+[14/10/2020 23:40:31]: RegisteredServers: 1
+[14/10/2020 23:40:33]: Average server load: 0.4
+[14/10/2020 23:40:33]: RegisteredServers: 1
+[14/10/2020 23:40:35]: Average server load: 0.4
+[14/10/2020 23:40:35]: RegisteredServers: 1
+[14/10/2020 23:40:37]: Average server load: 0.4
+[14/10/2020 23:40:37]: RegisteredServers: 1
+[14/10/2020 23:40:39]: Average server load: 0.4
+[14/10/2020 23:40:39]: RegisteredServers: 1
+[14/10/2020 23:40:41]: Average server load: 0.4
+[14/10/2020 23:40:41]: RegisteredServers: 1
+[14/10/2020 23:40:43]: Average server load: 0.4
+[14/10/2020 23:40:43]: RegisteredServers: 1
+[14/10/2020 23:40:45]: Average server load: 0.4
+[14/10/2020 23:40:45]: RegisteredServers: 1
+[14/10/2020 23:40:47]: Average server load: 0.4
+[14/10/2020 23:40:47]: RegisteredServers: 1
+[14/10/2020 23:40:49]: Average server load: 0.4
+[14/10/2020 23:40:49]: RegisteredServers: 1
+[14/10/2020 23:40:51]: Average server load: 0.4
+[14/10/2020 23:40:51]: RegisteredServers: 1
+[14/10/2020 23:40:53]: Average server load: 0.4
+[14/10/2020 23:40:53]: RegisteredServers: 1
+[14/10/2020 23:40:55]: Average server load: 0.4
+[14/10/2020 23:40:55]: RegisteredServers: 1
+[14/10/2020 23:40:57]: Average server load: 0.4
+[14/10/2020 23:40:57]: RegisteredServers: 1
+[14/10/2020 23:40:59]: Average server load: 0.4
+[14/10/2020 23:40:59]: RegisteredServers: 1
+[14/10/2020 23:41:01]: Average server load: 0.4
+[14/10/2020 23:41:01]: RegisteredServers: 1
+[14/10/2020 23:41:03]: Average server load: 0.4
+[14/10/2020 23:41:03]: RegisteredServers: 1
+[14/10/2020 23:41:05]: Average server load: 0.4
+[14/10/2020 23:41:05]: RegisteredServers: 1
+[14/10/2020 23:41:07]: Average server load: 0.4
+[14/10/2020 23:41:07]: RegisteredServers: 1
+[14/10/2020 23:41:09]: Average server load: 0.4
+[14/10/2020 23:41:09]: RegisteredServers: 1
+[14/10/2020 23:41:11]: Average server load: 0.4
+[14/10/2020 23:41:11]: RegisteredServers: 1
+[14/10/2020 23:41:13]: Average server load: 0.4
+[14/10/2020 23:41:13]: RegisteredServers: 1
+[14/10/2020 23:41:15]: Average server load: 0.4
+[14/10/2020 23:41:15]: RegisteredServers: 1
+[14/10/2020 23:41:17]: Average server load: 0.4
+[14/10/2020 23:41:17]: RegisteredServers: 1
+[14/10/2020 23:41:19]: Average server load: 0.4
+[14/10/2020 23:41:19]: RegisteredServers: 1
+[14/10/2020 23:41:21]: Average server load: 0.4
+[14/10/2020 23:41:21]: RegisteredServers: 1
+[14/10/2020 23:41:23]: Average server load: 0.4
+[14/10/2020 23:41:23]: RegisteredServers: 1
+[14/10/2020 23:41:25]: Average server load: 0.4
+[14/10/2020 23:41:25]: RegisteredServers: 1
+[14/10/2020 23:41:27]: Average server load: 0.4
+[14/10/2020 23:41:27]: RegisteredServers: 1
+[14/10/2020 23:41:29]: Average server load: 0.4
+[14/10/2020 23:41:29]: RegisteredServers: 1
+[14/10/2020 23:41:31]: Average server load: 0.4
+[14/10/2020 23:41:31]: RegisteredServers: 1
+[14/10/2020 23:41:33]: Average server load: 0.4
+[14/10/2020 23:41:33]: RegisteredServers: 1
+[14/10/2020 23:41:35]: Average server load: 0.4
+[14/10/2020 23:41:35]: RegisteredServers: 1
+[14/10/2020 23:41:37]: Average server load: 0.4
+[14/10/2020 23:41:37]: RegisteredServers: 1
+[14/10/2020 23:41:39]: Average server load: 0.4
+[14/10/2020 23:41:39]: RegisteredServers: 1
+[14/10/2020 23:41:41]: Average server load: 0.4
+[14/10/2020 23:41:41]: RegisteredServers: 1
+[14/10/2020 23:41:43]: Average server load: 0.4
+[14/10/2020 23:41:43]: RegisteredServers: 1
+[14/10/2020 23:41:45]: Average server load: 0.4
+[14/10/2020 23:41:45]: RegisteredServers: 1
+[14/10/2020 23:41:47]: Average server load: 0.4
+[14/10/2020 23:41:47]: RegisteredServers: 1
+[14/10/2020 23:41:49]: Average server load: 0.4
+[14/10/2020 23:41:49]: RegisteredServers: 1
+[14/10/2020 23:41:51]: Average server load: 0.4
+[14/10/2020 23:41:51]: RegisteredServers: 1
+[14/10/2020 23:41:53]: Average server load: 0.4
+[14/10/2020 23:41:53]: RegisteredServers: 1
+[14/10/2020 23:41:55]: Average server load: 0.4
+[14/10/2020 23:41:55]: RegisteredServers: 1
+[14/10/2020 23:41:57]: Average server load: 0.4
+[14/10/2020 23:41:57]: RegisteredServers: 1
+[14/10/2020 23:41:59]: Average server load: 0.4
+[14/10/2020 23:41:59]: RegisteredServers: 1
+[14/10/2020 23:42:01]: Average server load: 0.4
+[14/10/2020 23:42:01]: RegisteredServers: 1
+[14/10/2020 23:42:03]: Average server load: 0.4
+[14/10/2020 23:42:03]: RegisteredServers: 1
+[14/10/2020 23:42:05]: Average server load: 0.4
+[14/10/2020 23:42:05]: RegisteredServers: 1
+[14/10/2020 23:42:07]: Average server load: 0.4
+[14/10/2020 23:42:07]: RegisteredServers: 1
+[14/10/2020 23:42:09]: Average server load: 0.4
+[14/10/2020 23:42:09]: RegisteredServers: 1
+[14/10/2020 23:42:11]: Average server load: 0.4
+[14/10/2020 23:42:11]: RegisteredServers: 1
+[14/10/2020 23:42:13]: Average server load: 0.4
+[14/10/2020 23:42:13]: RegisteredServers: 1
+[14/10/2020 23:42:15]: Average server load: 0.4
+[14/10/2020 23:42:15]: RegisteredServers: 1
+[14/10/2020 23:42:17]: Average server load: 0.4
+[14/10/2020 23:42:17]: RegisteredServers: 1
+[14/10/2020 23:42:19]: Average server load: 0.4
+[14/10/2020 23:42:19]: RegisteredServers: 1
+[14/10/2020 23:42:21]: Average server load: 0.4
+[14/10/2020 23:42:21]: RegisteredServers: 1
+[14/10/2020 23:42:23]: Average server load: 0.4
+[14/10/2020 23:42:23]: RegisteredServers: 1
+[14/10/2020 23:42:25]: Average server load: 0.4
+[14/10/2020 23:42:25]: RegisteredServers: 1
+[14/10/2020 23:42:27]: Average server load: 0.4
+[14/10/2020 23:42:27]: RegisteredServers: 1
+[14/10/2020 23:42:29]: Average server load: 0.4
+[14/10/2020 23:42:29]: RegisteredServers: 1
+[14/10/2020 23:42:31]: Average server load: 0.4
+[14/10/2020 23:42:31]: RegisteredServers: 1
+[14/10/2020 23:42:33]: Average server load: 0.4
+[14/10/2020 23:42:33]: RegisteredServers: 1
+[14/10/2020 23:42:35]: Average server load: 0.4
+[14/10/2020 23:42:35]: RegisteredServers: 1
+[14/10/2020 23:42:37]: Average server load: 0.4
+[14/10/2020 23:42:37]: RegisteredServers: 1
+[14/10/2020 23:42:39]: Average server load: 0.4
+[14/10/2020 23:42:39]: RegisteredServers: 1
+[14/10/2020 23:42:41]: Average server load: 0.4
+[14/10/2020 23:42:41]: RegisteredServers: 1
+[14/10/2020 23:42:43]: Average server load: 0.4
+[14/10/2020 23:42:43]: RegisteredServers: 1
+[14/10/2020 23:42:45]: Average server load: 0.4
+[14/10/2020 23:42:45]: RegisteredServers: 1
+[14/10/2020 23:42:47]: Average server load: 0.4
+[14/10/2020 23:42:47]: RegisteredServers: 1
+[14/10/2020 23:42:49]: Average server load: 0.4
+[14/10/2020 23:42:49]: RegisteredServers: 1
+[14/10/2020 23:42:51]: Average server load: 0.4
+[14/10/2020 23:42:51]: RegisteredServers: 1
+[14/10/2020 23:42:53]: Average server load: 0.4
+[14/10/2020 23:42:53]: RegisteredServers: 1
+[14/10/2020 23:42:55]: Average server load: 0.4
+[14/10/2020 23:42:55]: RegisteredServers: 1
+[14/10/2020 23:42:57]: Average server load: 0.4
+[14/10/2020 23:42:57]: RegisteredServers: 1
+[14/10/2020 23:42:59]: Average server load: 0.4
+[14/10/2020 23:42:59]: RegisteredServers: 1
+[14/10/2020 23:43:01]: Average server load: 0.4
+[14/10/2020 23:43:01]: RegisteredServers: 1
+[14/10/2020 23:43:03]: Average server load: 0.4
+[14/10/2020 23:43:03]: RegisteredServers: 1
+[14/10/2020 23:43:05]: Average server load: 0.4
+[14/10/2020 23:43:05]: RegisteredServers: 1
+[14/10/2020 23:43:07]: Average server load: 0.4
+[14/10/2020 23:43:07]: RegisteredServers: 1
+[14/10/2020 23:43:09]: Average server load: 0.4
+[14/10/2020 23:43:09]: RegisteredServers: 1
+[14/10/2020 23:43:11]: Average server load: 0.4
+[14/10/2020 23:43:11]: RegisteredServers: 1
+[14/10/2020 23:43:13]: Average server load: 0.4
+[14/10/2020 23:43:13]: RegisteredServers: 1
+[14/10/2020 23:43:15]: Average server load: 0.4
+[14/10/2020 23:43:15]: RegisteredServers: 1
+[14/10/2020 23:43:17]: Average server load: 0.4
+[14/10/2020 23:43:17]: RegisteredServers: 1
+[14/10/2020 23:43:19]: Average server load: 0.4
+[14/10/2020 23:43:19]: RegisteredServers: 1
+[14/10/2020 23:43:21]: Average server load: 0.4
+[14/10/2020 23:43:21]: RegisteredServers: 1
+[14/10/2020 23:43:23]: Average server load: 0.4
+[14/10/2020 23:43:23]: RegisteredServers: 1
+[14/10/2020 23:43:25]: Average server load: 0.4
+[14/10/2020 23:43:25]: RegisteredServers: 1
+[14/10/2020 23:43:27]: Average server load: 0.4
+[14/10/2020 23:43:27]: RegisteredServers: 1
+[14/10/2020 23:43:29]: Average server load: 0.4
+[14/10/2020 23:43:29]: RegisteredServers: 1
+[14/10/2020 23:43:31]: Average server load: 0.4
+[14/10/2020 23:43:31]: RegisteredServers: 1
+[14/10/2020 23:43:33]: Average server load: 0.4
+[14/10/2020 23:43:33]: RegisteredServers: 1
+[14/10/2020 23:43:35]: Average server load: 0.4
+[14/10/2020 23:43:35]: RegisteredServers: 1
+[14/10/2020 23:43:37]: Average server load: 0.4
+[14/10/2020 23:43:37]: RegisteredServers: 1
+[14/10/2020 23:43:39]: Average server load: 0.4
+[14/10/2020 23:43:39]: RegisteredServers: 1
+[14/10/2020 23:43:41]: Average server load: 0.4
+[14/10/2020 23:43:41]: RegisteredServers: 1
+[14/10/2020 23:43:43]: Average server load: 0.4
+[14/10/2020 23:43:43]: RegisteredServers: 1
+[14/10/2020 23:43:45]: Average server load: 0.4
+[14/10/2020 23:43:45]: RegisteredServers: 1
+[14/10/2020 23:43:47]: Average server load: 0.4
+[14/10/2020 23:43:47]: RegisteredServers: 1
+[14/10/2020 23:43:49]: Average server load: 0.4
+[14/10/2020 23:43:49]: RegisteredServers: 1
+[14/10/2020 23:43:51]: Average server load: 0.4
+[14/10/2020 23:43:51]: RegisteredServers: 1
+[14/10/2020 23:43:53]: Average server load: 0.4
+[14/10/2020 23:43:53]: RegisteredServers: 1
+[14/10/2020 23:43:55]: Average server load: 0.4
+[14/10/2020 23:43:55]: RegisteredServers: 1
+[14/10/2020 23:43:57]: Average server load: 0.4
+[14/10/2020 23:43:57]: RegisteredServers: 1
+[14/10/2020 23:43:59]: Average server load: 0.4
+[14/10/2020 23:43:59]: RegisteredServers: 1
+[14/10/2020 23:44:01]: Average server load: 0.4
+[14/10/2020 23:44:01]: RegisteredServers: 1
+[14/10/2020 23:44:03]: Average server load: 0.4
+[14/10/2020 23:44:03]: RegisteredServers: 1
+[14/10/2020 23:44:05]: Average server load: 0.4
+[14/10/2020 23:44:05]: RegisteredServers: 1
+[14/10/2020 23:44:07]: Average server load: 0.4
+[14/10/2020 23:44:07]: RegisteredServers: 1
+[14/10/2020 23:44:09]: Average server load: 0.4
+[14/10/2020 23:44:09]: RegisteredServers: 1
+[14/10/2020 23:44:11]: Average server load: 0.4
+[14/10/2020 23:44:11]: RegisteredServers: 1
+[14/10/2020 23:44:13]: Average server load: 0.4
+[14/10/2020 23:44:13]: RegisteredServers: 1
+[14/10/2020 23:44:15]: Average server load: 0.4
+[14/10/2020 23:44:15]: RegisteredServers: 1
+[14/10/2020 23:44:17]: Average server load: 0.4
+[14/10/2020 23:44:17]: RegisteredServers: 1
+[14/10/2020 23:44:19]: Average server load: 0.4
+[14/10/2020 23:44:19]: RegisteredServers: 1
+[14/10/2020 23:44:21]: Average server load: 0.4
+[14/10/2020 23:44:21]: RegisteredServers: 1
+[14/10/2020 23:44:23]: Average server load: 0.4
+[14/10/2020 23:44:23]: RegisteredServers: 1
+[14/10/2020 23:44:25]: Average server load: 0.4
+[14/10/2020 23:44:25]: RegisteredServers: 1
+[14/10/2020 23:44:27]: Average server load: 0.4
+[14/10/2020 23:44:27]: RegisteredServers: 1
+[14/10/2020 23:44:29]: Average server load: 0.4
+[14/10/2020 23:44:29]: RegisteredServers: 1
+[14/10/2020 23:44:31]: Average server load: 0.4
+[14/10/2020 23:44:31]: RegisteredServers: 1
+[14/10/2020 23:44:33]: Average server load: 0.4
+[14/10/2020 23:44:33]: RegisteredServers: 1
+[14/10/2020 23:44:35]: Average server load: 0.4
+[14/10/2020 23:44:35]: RegisteredServers: 1
+[14/10/2020 23:44:37]: Average server load: 0.4
+[14/10/2020 23:44:37]: RegisteredServers: 1
+[14/10/2020 23:44:39]: Average server load: 0.4
+[14/10/2020 23:44:39]: RegisteredServers: 1
+[14/10/2020 23:44:41]: Average server load: 0.4
+[14/10/2020 23:44:41]: RegisteredServers: 1
+[14/10/2020 23:44:43]: Average server load: 0.4
+[14/10/2020 23:44:43]: RegisteredServers: 1
+[14/10/2020 23:44:45]: Average server load: 0.4
+[14/10/2020 23:44:45]: RegisteredServers: 1
+[14/10/2020 23:44:47]: Average server load: 0.4
+[14/10/2020 23:44:47]: RegisteredServers: 1
+[14/10/2020 23:44:49]: Average server load: 0.4
+[14/10/2020 23:44:49]: RegisteredServers: 1
+[14/10/2020 23:44:51]: Average server load: 0.4
+[14/10/2020 23:44:51]: RegisteredServers: 1
+[14/10/2020 23:44:53]: Average server load: 0.4
+[14/10/2020 23:44:53]: RegisteredServers: 1
+[14/10/2020 23:44:55]: Average server load: 0.4
+[14/10/2020 23:44:55]: RegisteredServers: 1
+[14/10/2020 23:44:57]: Average server load: 0.4
+[14/10/2020 23:44:57]: RegisteredServers: 1
+[14/10/2020 23:44:59]: Average server load: 0.4
+[14/10/2020 23:44:59]: RegisteredServers: 1
+[14/10/2020 23:45:01]: Average server load: 0.4
+[14/10/2020 23:45:01]: RegisteredServers: 1
+[14/10/2020 23:45:03]: Average server load: 0.4
+[14/10/2020 23:45:03]: RegisteredServers: 1
+[14/10/2020 23:45:05]: Average server load: 0.4
+[14/10/2020 23:45:05]: RegisteredServers: 1
+[14/10/2020 23:45:07]: Average server load: 0.4
+[14/10/2020 23:45:07]: RegisteredServers: 1
+[14/10/2020 23:45:09]: Average server load: 0.4
+[14/10/2020 23:45:09]: RegisteredServers: 1
+[14/10/2020 23:45:11]: Average server load: 0.4
+[14/10/2020 23:45:11]: RegisteredServers: 1
+[14/10/2020 23:45:13]: Average server load: 0.4
+[14/10/2020 23:45:13]: RegisteredServers: 1
+[14/10/2020 23:45:15]: Average server load: 0.4
+[14/10/2020 23:45:15]: RegisteredServers: 1
+[14/10/2020 23:45:17]: Average server load: 0.4
+[14/10/2020 23:45:17]: RegisteredServers: 1
+[14/10/2020 23:45:19]: Average server load: 0.4
+[14/10/2020 23:45:19]: RegisteredServers: 1
+[14/10/2020 23:45:21]: Average server load: 0.4
+[14/10/2020 23:45:21]: RegisteredServers: 1
+[14/10/2020 23:45:23]: Average server load: 0.4
+[14/10/2020 23:45:23]: RegisteredServers: 1
+[14/10/2020 23:45:25]: Average server load: 0.4
+[14/10/2020 23:45:25]: RegisteredServers: 1
+[14/10/2020 23:45:27]: Average server load: 0.4
+[14/10/2020 23:45:27]: RegisteredServers: 1
+[14/10/2020 23:45:29]: Average server load: 0.4
+[14/10/2020 23:45:29]: RegisteredServers: 1
+[14/10/2020 23:45:31]: Average server load: 0.4
+[14/10/2020 23:45:31]: RegisteredServers: 1
+[14/10/2020 23:45:33]: Average server load: 0.4
+[14/10/2020 23:45:33]: RegisteredServers: 1
+[14/10/2020 23:45:35]: Average server load: 0.4
+[14/10/2020 23:45:35]: RegisteredServers: 1
+[14/10/2020 23:45:37]: Average server load: 0.4
+[14/10/2020 23:45:37]: RegisteredServers: 1
+[14/10/2020 23:45:39]: Average server load: 0.4
+[14/10/2020 23:45:39]: RegisteredServers: 1
+[14/10/2020 23:45:41]: Average server load: 0.4
+[14/10/2020 23:45:41]: RegisteredServers: 1
+[14/10/2020 23:45:43]: Average server load: 0.4
+[14/10/2020 23:45:43]: RegisteredServers: 1
+[14/10/2020 23:45:45]: Average server load: 0.4
+[14/10/2020 23:45:45]: RegisteredServers: 1
+[14/10/2020 23:45:47]: Average server load: 0.4
+[14/10/2020 23:45:47]: RegisteredServers: 1
+[14/10/2020 23:45:49]: Average server load: 0.4
+[14/10/2020 23:45:49]: RegisteredServers: 1
+[14/10/2020 23:45:51]: Average server load: 0.4
+[14/10/2020 23:45:51]: RegisteredServers: 1
+[14/10/2020 23:45:53]: Average server load: 0.4
+[14/10/2020 23:45:53]: RegisteredServers: 1
+[14/10/2020 23:45:55]: Average server load: 0.4
+[14/10/2020 23:45:55]: RegisteredServers: 1
+[14/10/2020 23:45:57]: Average server load: 0.4
+[14/10/2020 23:45:57]: RegisteredServers: 1
+[14/10/2020 23:45:59]: Average server load: 0.4
+[14/10/2020 23:45:59]: RegisteredServers: 1
+[14/10/2020 23:46:01]: Average server load: 0.4
+[14/10/2020 23:46:01]: RegisteredServers: 1
+[14/10/2020 23:46:03]: Average server load: 0.4
+[14/10/2020 23:46:03]: RegisteredServers: 1
+[14/10/2020 23:46:05]: Average server load: 0.4
+[14/10/2020 23:46:05]: RegisteredServers: 1
+[14/10/2020 23:46:07]: Average server load: 0.4
+[14/10/2020 23:46:07]: RegisteredServers: 1
+[14/10/2020 23:46:09]: Average server load: 0.4
+[14/10/2020 23:46:09]: RegisteredServers: 1
+[14/10/2020 23:46:11]: Average server load: 0.4
+[14/10/2020 23:46:11]: RegisteredServers: 1
+[14/10/2020 23:46:13]: Average server load: 0.4
+[14/10/2020 23:46:13]: RegisteredServers: 1
+[14/10/2020 23:46:15]: Average server load: 0.4
+[14/10/2020 23:46:15]: RegisteredServers: 1
+[14/10/2020 23:46:17]: Average server load: 0.4
+[14/10/2020 23:46:17]: RegisteredServers: 1
+[14/10/2020 23:46:19]: Average server load: 0.4
+[14/10/2020 23:46:19]: RegisteredServers: 1
+[14/10/2020 23:46:21]: Average server load: 0.4
+[14/10/2020 23:46:21]: RegisteredServers: 1
+[14/10/2020 23:46:23]: Average server load: 0.4
+[14/10/2020 23:46:23]: RegisteredServers: 1
+[14/10/2020 23:46:25]: Average server load: 0.4
+[14/10/2020 23:46:25]: RegisteredServers: 1
+[14/10/2020 23:46:27]: Average server load: 0.4
+[14/10/2020 23:46:27]: RegisteredServers: 1
+[14/10/2020 23:46:29]: Average server load: 0.4
+[14/10/2020 23:46:29]: RegisteredServers: 1
+[14/10/2020 23:46:31]: Average server load: 0.4
+[14/10/2020 23:46:31]: RegisteredServers: 1
+[14/10/2020 23:46:33]: Average server load: 0.4
+[14/10/2020 23:46:33]: RegisteredServers: 1
+[14/10/2020 23:46:35]: Average server load: 0.4
+[14/10/2020 23:46:35]: RegisteredServers: 1
+[14/10/2020 23:46:37]: Average server load: 0.4
+[14/10/2020 23:46:37]: RegisteredServers: 1
+[14/10/2020 23:46:39]: Average server load: 0.4
+[14/10/2020 23:46:39]: RegisteredServers: 1
+[14/10/2020 23:46:41]: Average server load: 0.4
+[14/10/2020 23:46:41]: RegisteredServers: 1
+[14/10/2020 23:46:43]: Average server load: 0.4
+[14/10/2020 23:46:43]: RegisteredServers: 1
+[14/10/2020 23:46:45]: Average server load: 0.4
+[14/10/2020 23:46:45]: RegisteredServers: 1
+[14/10/2020 23:46:47]: Average server load: 0.4
+[14/10/2020 23:46:47]: RegisteredServers: 1
+[14/10/2020 23:46:49]: Average server load: 0.4
+[14/10/2020 23:46:49]: RegisteredServers: 1
+[14/10/2020 23:46:51]: Average server load: 0.4
+[14/10/2020 23:46:51]: RegisteredServers: 1
+[14/10/2020 23:46:53]: Average server load: 0.4
+[14/10/2020 23:46:53]: RegisteredServers: 1
+[14/10/2020 23:46:55]: Average server load: 0.4
+[14/10/2020 23:46:55]: RegisteredServers: 1
+[14/10/2020 23:46:57]: Average server load: 0.4
+[14/10/2020 23:46:57]: RegisteredServers: 1
+[14/10/2020 23:46:59]: Average server load: 0.4
+[14/10/2020 23:46:59]: RegisteredServers: 1
+[14/10/2020 23:47:01]: Average server load: 0.4
+[14/10/2020 23:47:01]: RegisteredServers: 1
+[14/10/2020 23:47:03]: Average server load: 0.4
+[14/10/2020 23:47:03]: RegisteredServers: 1
+[14/10/2020 23:47:05]: Average server load: 0.4
+[14/10/2020 23:47:05]: RegisteredServers: 1
+[14/10/2020 23:47:07]: Average server load: 0.4
+[14/10/2020 23:47:07]: RegisteredServers: 1
+[14/10/2020 23:47:09]: Average server load: 0.4
+[14/10/2020 23:47:09]: RegisteredServers: 1
+[14/10/2020 23:47:11]: Average server load: 0.4
+[14/10/2020 23:47:11]: RegisteredServers: 1
+[14/10/2020 23:47:13]: Average server load: 0.4
+[14/10/2020 23:47:13]: RegisteredServers: 1
+[14/10/2020 23:47:15]: Average server load: 0.4
+[14/10/2020 23:47:15]: RegisteredServers: 1
+[14/10/2020 23:47:17]: Average server load: 0.4
+[14/10/2020 23:47:17]: RegisteredServers: 1
+[14/10/2020 23:47:19]: Average server load: 0.4
+[14/10/2020 23:47:19]: RegisteredServers: 1
+[14/10/2020 23:47:21]: Average server load: 0.4
+[14/10/2020 23:47:21]: RegisteredServers: 1
+[14/10/2020 23:47:23]: Average server load: 0.4
+[14/10/2020 23:47:23]: RegisteredServers: 1
+[14/10/2020 23:47:25]: Average server load: 0.4
+[14/10/2020 23:47:25]: RegisteredServers: 1
+[14/10/2020 23:47:27]: Average server load: 0.4
+[14/10/2020 23:47:27]: RegisteredServers: 1
+[14/10/2020 23:47:29]: Average server load: 0.4
+[14/10/2020 23:47:29]: RegisteredServers: 1
+[14/10/2020 23:47:31]: Average server load: 0.4
+[14/10/2020 23:47:31]: RegisteredServers: 1
+[14/10/2020 23:47:33]: Average server load: 0.4
+[14/10/2020 23:47:33]: RegisteredServers: 1
+[14/10/2020 23:47:35]: Average server load: 0.4
+[14/10/2020 23:47:35]: RegisteredServers: 1
