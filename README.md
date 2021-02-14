@@ -1,7 +1,5 @@
 # SWP(Softwareparadigmen) Aufgabe
 ## Servermonitoring und -skalierung
-Software Paradigmen
-
 Dieses Programm soll den Betrieb und die Auslastung von unterschiedlichen Server simulieren.
 Mithilfe von unterschiedlichen Design Patterns sollen die Server ab gewissen Werten gestartet und gestoppt werden.
 Alle erhobenen Werte werden jede 2. Sekunde in einer Log Datei aufgezeichnet.
@@ -20,8 +18,6 @@ Serverauslastung < 30 % ist
 
 # SWP(Software Paradigms) Assignment
 ## Servermonitoring and -scaling
-Software Paradigms
-
 This program is supposed to simulate the usage and resource consumption of several servers.
 With the implementation of some design patterns, the beforementioned servers are supposed to start and stop at a certain level of performance/activity.
 Every 2 seconds the program records all the collected data in a log file.
