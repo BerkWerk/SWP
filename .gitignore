@@ -1,4 +1,6 @@
 # Project exclude paths
 /.idea/
 /out/
-/src/logFile.txt
+/Documents/
+SWP.iml
+logFile.txt
